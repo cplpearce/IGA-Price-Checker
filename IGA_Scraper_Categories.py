@@ -144,7 +144,7 @@ with open("igaSalesExport {}.csv".format(categoriesText[userCategory]), "a") as 
             product[5]
             )
         )
-"""        
+      
 for product in itemCatalog:
     print("{}Item Name: {}{}\n{}Item Category/Brand: {}{}\nRegular Price: ${}\nSale Price: ${}\n{}Total Sale Discount: ${}{}\n".format(
         Fore.CYAN,
@@ -160,6 +160,6 @@ for product in itemCatalog:
         Style.RESET_ALL
         )
     )
-"""
+
     
 print("Finished!")
