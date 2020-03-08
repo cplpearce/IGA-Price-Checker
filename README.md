@@ -16,3 +16,6 @@
     import colorama
     import math
     import re
+
+### Working setup on a remote server
+##### https://repl.it/repls/OpulentShockingWorker
