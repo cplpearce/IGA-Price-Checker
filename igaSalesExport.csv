@@ -1,21 +1,48 @@
 Item Name,Item Category/Brand,Regular Price,Sale Price,Total Sale Discount,Discount Ratio
+Classic Soft Drink,Coca-Cola,$2.69,$0.95,$1.74,0.6468
+Club Soda Soft Drink,Canada Dry,$2.69,$0.95,$1.74,0.6468
 Diet Caffeine Free Soft Drink,Coca-Cola,$2.69,$0.95,$1.74,0.6468
 Diet Ginger Ale Soft Drink,Canada Dry,$2.69,$0.95,$1.74,0.6468
 Diet Soft Drink,Coca-Cola,$2.69,$0.95,$1.74,0.6468
 Ginger Ale Soft Drink,Canada Dry,$2.69,$0.95,$1.74,0.6468
+1 EA Sweet,Red Peppers,$5.49,$2.00,$3.49,0.6357
 Ham Canned Meat,Maple Leaf,$9.79,$4.49,$5.30,0.5414
+Boneless Half Toupie Ham,Lafleur,$16.32,$7.69,$8.63,0.5288
+Dark Roast Coffee,Maxwell House,$13.99,$6.97,$7.02,0.5018
+Decaffeinated Coffee,Maxwell House,$13.99,$6.97,$7.02,0.5018
+Celebration 45% Chocolate Top Butter Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Caramel Milk Chocolate Butter Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Chocolate 45% Mint Trifle Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Maple Leaf Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Milk Chocolate Top Butter Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Raspberry Milk Chocolate Coated Butter...,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Truffle Limited Edition Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Celebration Vanilla Butter Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Chocolate Top Butter Cookies,Leclerc,$3.49,$1.77,$1.72,0.4928
+Chocolate Topped Butter Cookie Celebration,Leclerc,$3.49,$1.77,$1.72,0.4928
+Coffee Coated Celebration Wafer,Leclerc,$3.49,$1.77,$1.72,0.4928
+Dark Chocolate Coated Celebration Cookie Stick,Leclerc,$3.49,$1.77,$1.72,0.4928
 Graham Coated Celebration Cookie,Leclerc,$3.49,$1.77,$1.72,0.4928
 Maple Milk Chocolate Coated Celebration Cookie,Leclerc,$3.49,$1.77,$1.72,0.4928
 Milk Chocolate Coated Celebration Cookie Stick,Leclerc,$3.49,$1.77,$1.72,0.4928
+Citrus Splash & Berry Fusion Body Wash,Softsoap,$7.49,$3.99,$3.50,0.4673
+Coconut Butter Scrub Body Wash,Softsoap,$7.49,$3.99,$3.50,0.4673
 Gentle Wash Coconut & Lemongrass Body Wash,Softsoap,$7.49,$3.99,$3.50,0.4673
 Honey Cream & Lavender Body Wash,Softsoap,$7.49,$3.99,$3.50,0.4673
 Luminous Oils Macadamia Oil & Peony Body Wash,Softsoap,$7.49,$3.99,$3.50,0.4673
 Fruit Source Mango Mangosteen Fruit Bar,SunRype,$1.49,$0.80,$0.69,0.4631
+2 Ply 253 Sheets Bathroom Tissue,Royale,$10.99,$5.99,$5.00,0.4550
+bleach bathroom cleaner,HERTEL,$3.59,$1.99,$1.60,0.4457
 Monaco Chessman Cookies,Pepperidge Farm,$3.49,$1.99,$1.50,0.4298
 Monaco Double Chocolate Cookies,Pepperidge Farm,$3.49,$1.99,$1.50,0.4298
 Monaco Mint Cookies,Pepperidge Farm,$3.49,$1.99,$1.50,0.4298
+Berbere Couscous,Asygo Groupe,$6.99,$3.99,$3.00,0.4292
 Encore Instant Coffee,Nescafe,$6.99,$3.99,$3.00,0.4292
+Cheez Whiz,Kraft,$10.49,$5.99,$4.50,0.4290
 Light Cheez Whiz,Kraft,$10.49,$5.99,$4.50,0.4290
+Black Sesame Brown Rice Crisps,SuperSlim,$3.49,$2.00,$1.49,0.4269
+Cheddar Goldfish Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
+Colors Goldfish Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
 Extra Cheddar Pretzel Goldfish Mixups,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
 Goldfish Blasted Explosive Pizza Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
 Goldfish Blasted Extreme Cheddar Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
@@ -28,7 +55,12 @@ Goldfish Slamming Sour Cream & Onion Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,
 Goldfish Veggies & Fruit Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
 Goldfish Whole Grain Cheddar Crackers,Pepperidge Farm,$3.39,$1.99,$1.40,0.4130
 Mint Super Dental Floss,Oral-B,$4.99,$2.99,$2.00,0.4008
+Black Silk Ground Coffee,Folgers,$11.49,$6.97,$4.52,0.3934
+Classic Roast Coffee,Folgers,$11.49,$6.97,$4.52,0.3934
+Decaffeinated Coffee,Folgers,$11.49,$6.97,$4.52,0.3934
 Intensely Dark Ground Coffee,Folgers,$11.49,$6.97,$4.52,0.3934
+Chicken and Rice Soup,Habitant,$2.69,$1.66,$1.03,0.3829
+Chicken Egg Noodle Soup,Habitant,$2.69,$1.66,$1.03,0.3829
 French Canadian Pea Soup,Habitant,$2.69,$1.66,$1.03,0.3829
 Garden Vegetable Style Soup,Habitant,$2.69,$1.66,$1.03,0.3829
 Ham And Pea Soup,Habitant,$2.69,$1.66,$1.03,0.3829
@@ -36,13 +68,30 @@ Extra Buttery 6 Pack Popcorn,Orville Redenbacher,$5.59,$3.50,$2.09,0.3739
 Flakes Crab Delectables,Clover Leaf,$3.99,$2.50,$1.49,0.3734
 Flakes Lobster Delectables,Clover Leaf,$3.99,$2.50,$1.49,0.3734
 Leg Crab Delectables,Clover Leaf,$3.99,$2.50,$1.49,0.3734
+Chocolate Banana Nut Bars,Kashi,$1.99,$1.25,$0.74,0.3719
+Cranberry Almond Nut Breakfast Bar,Kashi,$1.99,$1.25,$0.74,0.3719
+Dark Chocolate Espresso Nut Bars,Kashi,$1.99,$1.25,$0.74,0.3719
 Joi Almond Dark Chocolate Mint Bar,Kashi,$1.99,$1.25,$0.74,0.3719
+Amooza Mozarella Cheddar Twists Cheese,Kraft,$6.29,$3.99,$2.30,0.3657
+Amooza Mozzarella Twists Cheese,Kraft,$6.29,$3.99,$2.30,0.3657
+Boneless, Toupie Style Quarter Ham,Lafleur,$6.66,$4.23,$2.43,0.3649
 Harvest Crunch Apple Crumble Cereal,Quaker,$4.69,$2.99,$1.70,0.3625
 Harvest Crunch Dark Chocolate Cereal,Quaker,$4.69,$2.99,$1.70,0.3625
 Light & Crispy Honey Nut Harvest Crunch Granola Ce...,Quaker,$4.69,$2.99,$1.70,0.3625
+Assorted Source Yogurt,Yoplait,$7.79,$4.99,$2.80,0.3594
+Creamy Assorted Yogurt,Yoplait,$7.79,$4.99,$2.80,0.3594
+Creamy Duo Assorted Yogurt,Yoplait,$7.79,$4.99,$2.80,0.3594
+Creamy Tropical Yogurt,Yoplait,$7.79,$4.99,$2.80,0.3594
 Dessert Selections Source Yogurt,Yoplait,$7.79,$4.99,$2.80,0.3594
 Moisture 12's Buns,Pom,$4.29,$2.75,$1.54,0.3590
 Moisture 12's Buns,Pom,$4.29,$2.75,$1.54,0.3590
+Chocolate 1% Milk,Quebon,$2.29,$1.50,$0.79,0.3450
+Chocolate Milk,Quebon,$2.29,$1.50,$0.79,0.3450
+Dark Chocolate Milk,Natrel,$3.79,$2.49,$1.30,0.3430
+Brilliant Yellow Sugar,Lantic,$2.99,$1.99,$1.00,0.3344
+Brown Sugar BBQ Sauce,Kraft,$2.99,$1.99,$1.00,0.3344
+Cherry and Almond All Purpose Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
+Chicken & Rib BBQ Sauce,Kraft,$2.99,$1.99,$1.00,0.3344
 Fresh Scent Multi Purpose Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
 Garlic BBQ Sauce,Kraft,$2.99,$1.99,$1.00,0.3344
 Light Regular BBQ Sauce,Kraft,$2.99,$1.99,$1.00,0.3344
@@ -51,6 +100,8 @@ liquid - spray - fresh scent Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
 liquid jasmin and lavender Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
 liquid lemon and green tea Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
 Liquid Ylang And Jasmine Cleaner,Hertel,$2.99,$1.99,$1.00,0.3344
+Apple Organic Snack,GoGo Squeez,$4.49,$2.99,$1.50,0.3341
+Caramel Mediterranee Yogurt,Liberte,$4.49,$2.99,$1.50,0.3341
 In Oil Chopped Garlic,Derlea,$4.49,$2.99,$1.50,0.3341
 Mediterranean Limited Edition 9% m.g. Yogurt 9%,Liberte,$4.49,$2.99,$1.50,0.3341
 Mediterranean Strawberry Yogurt,Liberte,$4.49,$2.99,$1.50,0.3341
@@ -60,35 +111,85 @@ Mediterranee Mocha Yogurt,Liberte,$4.49,$2.99,$1.50,0.3341
 Medium Cheddar Cheese,Natrel,$4.49,$2.99,$1.50,0.3341
 Micro 24 Pack Croissants,La Petite Bretonne,$4.49,$2.99,$1.50,0.3341
 Micro Chocolate Croissants,La Petite Bretonne,$4.49,$2.99,$1.50,0.3341
+Cheddar Medium Cheese Slices,Cracker Barrel,$5.99,$3.99,$2.00,0.3339
 Marble Cheese Slices,Cracker Barrel,$5.99,$3.99,$2.00,0.3339
-Medium White Cheddar Cheese Slices,P'tit Québec,$5.99,$3.99,$2.00,0.3339
+Medium White Cheddar Cheese Slices,P'tit Quï¿½bec,$5.99,$3.99,$2.00,0.3339
 Mini Wheats Brown Sugar Cereal,Kellogg's,$5.99,$3.99,$2.00,0.3339
 Mini Wheats Cocoa Cereal,Kellogg,$5.99,$3.99,$2.00,0.3339
 Mini Wheats Maple Cereal,Kellogg's,$5.99,$3.99,$2.00,0.3339
 Mini Wheats Raspberry Centres Cereal,Kellogg's,$5.99,$3.99,$2.00,0.3339
 Mini Wheats Regular Cereal,Kellogg's,$5.99,$3.99,$2.00,0.3339
 Montery Jack With Jalapeno Cheese Slices,Cracker Barrel,$5.99,$3.99,$2.00,0.3339
+Activia Apple Apricot Mango Peach Yogurt,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Fat Free Strawberry Raspberry Vanilla Peac...,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Lactose Free Yogurt,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Raspberry Strawberry Blueberry Peach Yogur...,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Strawberry Peach Mango Blueberry Lactose F...,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Strawberry Yogurt,Danone,$7.49,$4.99,$2.50,0.3338
+Activia Vanilla Cereal Blueberry/Strawberry/Kiwi/P...,Danone,$7.49,$4.99,$2.50,0.3338
+2X Liquid Original 24 Use Laundry Detergent,Tide,$8.99,$5.99,$3.00,0.3337
 Frozen Farm 41/50 Shrimp,Blue Tide,$8.99,$5.99,$3.00,0.3337
 Mini Original 32s Corn Dogs,Pogo,$14.99,$9.99,$5.00,0.3336
+Avocado Cilantro OPA Dressing,Litehouse,$4.49,$3.00,$1.49,0.3318
+Beet Fettucine,Florettes,$4.49,$3.00,$1.49,0.3318
+Blue Cheese Dressing,Litehouse,$4.49,$3.00,$1.49,0.3318
+Carrot Fettucine,Florettes,$4.49,$3.00,$1.49,0.3318
+Chipotle Ranch Veggie Dip,Litehouse,$4.49,$3.00,$1.49,0.3318
+Cream Cheesecake Opadipity,Litehouse,$4.49,$3.00,$1.49,0.3318
 Dilly Dip Dressing,Litehouse,$4.49,$3.00,$1.49,0.3318
 Heavy Duty Scrunge,Vileda,$4.49,$3.00,$1.49,0.3318
 Homestyle Ranch Dressing,Litehouse,$4.49,$3.00,$1.49,0.3318
+Brownies MuffinMax Bars,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola Brownies,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola Caramel,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola Caramel Pretzel,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola Chocolate Chip,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola Cookie Dough,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Granola S'mores,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Indulgent Cookies and Cream Squares,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Indulget Chocolate Tango Square,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Indulget Coconut Square,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Nougat Caramel Almonds Bar,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Nougat Caramel Chocolate Bar,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Nougat Caramel Dark.Chocolate Granola Bar...,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Nougat Cream Cookie Bar,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chocomax Nougat Strawberry Sundae Bar,Leclerc,$2.99,$2.00,$0.99,0.3311
+Chicken Pot Pie,Mere Michel,$2.49,$1.67,$0.82,0.3293
+Chicken Flavour Soup,Gattuso,$1.49,$1.00,$0.49,0.3289
+Creamy Tomato Soup At Hand,Campbell's,$1.99,$1.34,$0.65,0.3266
 Gold Dark Roast Coffee,Nescafe,$10.29,$6.99,$3.30,0.3207
+Crispix Krispies Cereal,Kellogg's,$5.79,$3.99,$1.80,0.3109
 Moostache 1% Chocolate Milk Milk,Natrel,$5.79,$3.99,$1.80,0.3109
 Drinkable Tropical 2% MF Yogurt,YOP,$1.29,$0.89,$0.40,0.3101
 Limited Edition Yop Drinkable Yogurt,Yoplait,$1.29,$0.89,$0.40,0.3101
+All Natural Plain Yogurt,Danone,$4.29,$2.99,$1.30,0.3030
+Apple HoneyCrisp Juice,Rougemont,$4.29,$2.99,$1.30,0.3030
+Apple With Calcium Juice,Rougemont,$4.29,$2.99,$1.30,0.3030
 McIntosh Apple Juice,Rougemont,$4.29,$2.99,$1.30,0.3030
 Mellow Apple Juice,Rougemont,$4.29,$2.99,$1.30,0.3030
+1/3 Less Salt Corn Niblets,Green Giant,$1.79,$1.25,$0.54,0.3017
 Fancy Corn Niblets,Green Giant,$1.79,$1.25,$0.54,0.3017
 Fancy Peas,Le Sieur,$1.79,$1.25,$0.54,0.3017
 Green Fancy Cut Beans,Green Giant,$1.79,$1.25,$0.54,0.3017
 Green French Style Beans,Green Giant,$1.79,$1.25,$0.54,0.3017
 Hollandaise Classic Sauce Mix,Knorr,$1.79,$1.25,$0.54,0.3017
 Less Salt Green Beans,Green Giant,$1.79,$1.25,$0.54,0.3017
+Angel Sweet Tomatoes Tomatoes,Compliments,$4.99,$3.49,$1.50,0.3006
+6 Months Maese Miguel,Manchego,$10.24,$7.18,$3.06,0.2988
+Argan Camelis Whole Blend,Garnier,$5.69,$3.99,$1.70,0.2988
+Argan Camelis Whole Blend,Garnier,$5.69,$3.99,$1.70,0.2988
+Avocado Oil & Shea Butter Whole Blends Conditioner,Garnier,$5.69,$3.99,$1.70,0.2988
+Avocado Oil & Shea Butter Whole Blends Shampoo,Garnier,$5.69,$3.99,$1.70,0.2988
+Coco Vanilla Whole Blend Conditioner,Garnier,$5.69,$3.99,$1.70,0.2988
+Coco Vanilla Whole Blends Shampoo,Gariner,$5.69,$3.99,$1.70,0.2988
 Garden Veggie Crumble,Yves Veggie Cusine,$4.99,$3.50,$1.49,0.2986
 Italian Veggie Ground Round,Yves Veggie Cuisine,$4.99,$3.50,$1.49,0.2986
 Mexican Veggie Ground Round,Yves Veggie Cuisine,$4.99,$3.50,$1.49,0.2986
 Frozen Back Ribs,St-Hubert,$16.99,$11.99,$5.00,0.2943
+Complete Vanilla Bottle Supplement Drink,Pediasure,$11.99,$8.49,$3.50,0.2919
+Brown Sugar Pop Tart Thins,Kellogg,$3.49,$2.49,$1.00,0.2865
+Chocolate Chip Pop Tarts,Kellogg's,$3.49,$2.49,$1.00,0.2865
+Chocolate Fudge Pop Tarts,Kellogg's,$3.49,$2.49,$1.00,0.2865
 Everyday Gourmet Butternut Squash Soup,Campbell's,$3.49,$2.49,$1.00,0.2865
 Everyday Gourmet Country Vegetable Soup,Campbell's,$3.49,$2.49,$1.00,0.2865
 Everyday Gourmet Roasted Sweet Red Pepper Soup,Campbell's,$3.49,$2.49,$1.00,0.2865
@@ -97,6 +198,11 @@ Everyday Gourmet Tomato Basil Soup,Campbell's,$3.49,$2.49,$1.00,0.2865
 Frosted Blueberry Pop Tarts,Kellogg's,$3.49,$2.49,$1.00,0.2865
 Frosted Raspberry Pop Tarts,Kellogg's,$3.49,$2.49,$1.00,0.2865
 Frosted Strawberry Pop Tarts,Kellogg's,$3.49,$2.49,$1.00,0.2865
+Canadian Harvest Cherries 3.2% Yogurt,IOGO,$4.19,$2.99,$1.20,0.2864
+Canadian Harvest Maple Syrup 3.2% Yogurt,IOGO,$4.19,$2.99,$1.20,0.2864
+Canadian Harvest Plain 3.8% Yogurt,IOGO,$4.19,$2.99,$1.20,0.2864
+Color Radiance Hair Expertise Conditioner,L'Oreal,$5.59,$3.99,$1.60,0.2862
+Color Radiance Hair Expertise Dry Conditioner,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Extra Oil Dry Hair Expertise Conditioner,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Extra Oil Hair Expertise Shampoo,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Fibralogy Shampoo,L'Oreal,$5.59,$3.99,$1.60,0.2862
@@ -105,6 +211,14 @@ Hair Expertise Dry Color Radiance Shampoo,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Hair Expertise TR5 Cica Conditioner,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Hair Expertise TR5 Cica Shampoo,L'Oreal,$5.59,$3.99,$1.60,0.2862
 Hair Expertise Volume Collagen Shampoo,L'Oreal,$5.59,$3.99,$1.60,0.2862
+33% Less Salt Bacon,Olymel,$6.99,$4.99,$2.00,0.2861
+Armonico NCC Capsules Espresso,Lavazza,$6.99,$4.99,$2.00,0.2861
+Butterscotch Ripple Creamery Style Ice Cream,Breyers,$6.99,$4.99,$2.00,0.2861
+Chewy Bites Chicken, Sweet Potato & Apple Recipe D...,Nature's Recipe,$6.99,$4.99,$2.00,0.2861
+Cocktail Tomatoes,Savoura,$6.99,$4.99,$2.00,0.2861
+Coconut 3% Greek Yogurt,Liberte,$6.99,$4.99,$2.00,0.2861
+Creamery Style Caramel Fudge Ice Cream,Breyers,$6.99,$4.99,$2.00,0.2861
+Creamery Style Neopolitan Ice Cream,Breyers,$6.99,$4.99,$2.00,0.2861
 Drumstick Chocolate 4 Pack Frozen Dessert Cones,Nestle,$6.99,$4.99,$2.00,0.2861
 Drumstick Chocolate Peanut Butter Multipack Ice Cr...,Nestle,$6.99,$4.99,$2.00,0.2861
 Drumstick Mocha Cookie Frozen Dessert Cones,Nestle,$6.99,$4.99,$2.00,0.2861
@@ -122,6 +236,9 @@ Lactose Free Vanilla 0% Greek Yogurt,Liberte,$6.99,$4.99,$2.00,0.2861
 MacIntosh Apple,Compliments,$6.99,$4.99,$2.00,0.2861
 Maple Bacon,Olymel,$6.99,$4.99,$2.00,0.2861
 EB17 Toothbrushes,Oral-B,$34.99,$24.99,$10.00,0.2858
+Caramel Dark Sea Salt Bar,Ghirardelli,$4.19,$3.00,$1.19,0.2840
+Dark Coconut Excellence Bar,Lindt,$4.19,$3.00,$1.19,0.2840
+Dark Strawberry Excellence Chocolate,Lindt,$4.19,$3.00,$1.19,0.2840
 Exc Vanilla Chocolates,Lindt,$4.19,$3.00,$1.19,0.2840
 Excellence 70% Cocoa Chocolate Bar,Lindt,$4.19,$3.00,$1.19,0.2840
 Excellence 78% Cacao Chocolate,Lindt,$4.19,$3.00,$1.19,0.2840
@@ -145,6 +262,13 @@ Intense Black Current Excellence Chocolate,Lindt,$4.19,$3.00,$1.19,0.2840
 Little Bites Banana Muffins,Sara Lee,$4.19,$3.00,$1.19,0.2840
 Little Bites Blueberry Muffins,Sara Lee,$4.19,$3.00,$1.19,0.2840
 Little Bites Chocolate Chip Muffins,Sara Lee,$4.19,$3.00,$1.19,0.2840
+2 %  MF Fine Filtered Chocolate Milk,Natrel,$5.99,$4.29,$1.70,0.2838
+Blends Chipotle Gluten Free Seasoning,Club House,$3.49,$2.50,$0.99,0.2837
+Cheez-it Orignal Cracker,Kellogg,$3.49,$2.50,$0.99,0.2837
+Chewy Yogurt Strawberry 5 Pack Granola Bars,Quaker,$3.49,$2.50,$0.99,0.2837
+Chewy Yogurt Vanilla 5 Pack Granola Bars,Quaker,$3.49,$2.50,$0.99,0.2837
+Country Style Pate,Charcuterie Bretagne,$3.49,$2.50,$0.99,0.2837
+Crab Spread,Malimousse,$3.49,$2.50,$0.99,0.2837
 Fine Herb Country Style Pate,Charcuterie Bretagne,$3.49,$2.50,$0.99,0.2837
 Garlic Country Style Pate,Charcuterie Bretagne,$3.49,$2.50,$0.99,0.2837
 Harvest Crunch Quinoa Chocolate Nut Granola Bars,Quaker,$3.49,$2.50,$0.99,0.2837
@@ -153,22 +277,48 @@ Honey Garlic Cooking Sauce,VH,$3.49,$2.50,$0.99,0.2837
 Liver Pate,Charcuterie Bretagne,$3.49,$2.50,$0.99,0.2837
 Liver With Pepper Pate,Charcuterie Bretagne,$3.49,$2.50,$0.99,0.2837
 Irish Cream Cafe Milk/Cream Blend,Natrel,$3.19,$2.29,$0.90,0.2821
+1 % Chocolate Milk,Natrel,$2.49,$1.79,$0.70,0.2811
+2% Lactose Free Milk,Natrel,$2.49,$1.79,$0.70,0.2811
 Lactose Free Chocolate Milk,Natrel,$2.49,$1.79,$0.70,0.2811
+Almond Regular Size Chocolate Bar,Hershey's,$1.39,$1.00,$0.39,0.2806
+Chocolate Eagle Meal Replacement,Ensure,$12.49,$8.99,$3.50,0.2802
+Corn Flakes Cereal,Kellogg's,$9.69,$6.99,$2.70,0.2786
 Go Lean Crunch Jumbo Granola,Kashi,$9.69,$6.99,$2.70,0.2786
+Butter Chicken With Vegetables Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Baked Potato With Bacon Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Beef Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Chicken & Sausage Gumbo Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Chicken A La King Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Chicken Corn Chowder Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Chicken Noodle Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Chicken With Rice Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Creamy Chicken Noodle Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky New England Clam Chowder Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Pepper Steak & Potato Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Prime Rib With Vegetables Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Chunky Seafood Chowder Soup,Campbell's,$3.79,$2.75,$1.04,0.2744
+Burrito Dinner Kit,Old El Paso,$5.49,$3.99,$1.50,0.2732
 Extra Mild Hard Taco Kit,Old El Paso,$5.49,$3.99,$1.50,0.2732
 Fajita Dinner Kit,Old El Paso,$5.49,$3.99,$1.50,0.2732
 Lemonade Juice,Simply Lemonade,$5.49,$3.99,$1.50,0.2732
 Mini Bowl Appetizer Tortillas,Old El Paso,$5.49,$3.99,$1.50,0.2732
+Bear Squeeze Honey,Billy Bee,$6.79,$4.99,$1.80,0.2651
+Dairy Free Plain Yogurt,Liberte,$6.79,$4.99,$1.80,0.2651
+Dairy Free Raspberry Yogurt,Liberte,$6.79,$4.99,$1.80,0.2651
+Dairy Free Vanilla Yogurt,Liberte,$6.79,$4.99,$1.80,0.2651
 Liquid Squeeze Honey,Billy Bee,$6.79,$4.99,$1.80,0.2651
 Liquid White Honey,Billy Bee,$6.79,$4.99,$1.80,0.2651
+Corn Pops Jumbo Cereal,Kellogg's,$9.49,$6.99,$2.50,0.2634
 Froot Loops Jumbo Cereal,Kellogg's,$9.49,$6.99,$2.50,0.2634
 Frosted Flakes Cereal,Kellogg's,$9.49,$6.99,$2.50,0.2634
 Extra Virgin Olive Oil,Compliments,$8.79,$6.49,$2.30,0.2617
+1/3 less salt Small peas,Le Sieur,$1.69,$1.25,$0.44,0.2604
+Cream Of Mushroom Soup,Campbell's,$1.69,$1.25,$0.44,0.2604
 Demineralized Water,Aquafina,$1.69,$1.25,$0.44,0.2604
-Gourmet Steamer Chicken Pineapple Frozen Entrée,Healthy Choice,$4.49,$3.33,$1.16,0.2584
+Gourmet Steamer Chicken Pineapple Frozen Entrï¿½e,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamer Grilled Balsamic Chicken Frozen En...,Healthy Choice,$4.49,$3.33,$1.16,0.2584
-Gourmet Steamer Grilled Chicken Pesto Frozen Entré...,Healthy Choice,$4.49,$3.33,$1.16,0.2584
-Gourmet Steamer Sweet & Sour Chicken Frozen Entrée,Healthy Choice,$4.49,$3.33,$1.16,0.2584
+Gourmet Steamer Grilled Chicken Pesto Frozen Entrï¿½...,Healthy Choice,$4.49,$3.33,$1.16,0.2584
+Gourmet Steamer Sweet & Sour Chicken Frozen Entrï¿½e,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamers Basil Grilled Chicken Linguine,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamers Beef Merlot Frozen Entree,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamers Chicken Marinara Frozen Entree,Healthy Choice,$4.49,$3.33,$1.16,0.2584
@@ -176,13 +326,63 @@ Gourmet Steamers General Tao's Spicy Chicken Froze...,Healthy Choice,$4.49,$3.33
 Gourmet Steamers Red Pepper Chicken Alfredo Frozen...,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamers Sweet Sesame Chicken Frozen Entre...,Healthy Choice,$4.49,$3.33,$1.16,0.2584
 Gourmet Steamers Teriyaki Chicken Frozen Entree,Healthy Choice,$4.49,$3.33,$1.16,0.2584
+BBQ Gluten Free Crispy Minis,Quaker,$2.69,$2.00,$0.69,0.2565
+Butter Popcorn Crispy Minis,Quaker,$2.69,$2.00,$0.69,0.2565
+Buttered Popcorn Rice Cakes,Quaker,$2.69,$2.00,$0.69,0.2565
+Caramel Chocolate Chip Rice Cakes,Quaker,$2.69,$2.00,$0.69,0.2565
+Caramel Rice Cakes,Quaker,$2.69,$2.00,$0.69,0.2565
+Cheddar Cheese Crispy Minis,Quaker,$2.69,$2.00,$0.69,0.2565
+Cheesy Nacho Crispy Minis Tortilla,Quaker,$2.69,$2.00,$0.69,0.2565
+Classic Ketchup Crispy Minis,Quaker,$2.69,$2.00,$0.69,0.2565
 Everything Rice Cakes,Quaker,$2.69,$2.00,$0.69,0.2565
+Bear Paws Baked Apples Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Banana Bread Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Birthday Cake Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Brownie Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Chocolate Chip Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Chocolate Sandwich Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Molasses Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Vanilla Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Bear Paws Vanilla Sandwich Cookies,Dare,$3.69,$2.75,$0.94,0.2547
+Carmel & Prailine Ice Cream Bars,Sensations,$6.69,$4.99,$1.70,0.2541
+Anchovy Paste,Gia,$3.19,$2.39,$0.80,0.2508
+Captain Crunch Cereal,Quaker,$3.99,$2.99,$1.00,0.2506
+Classic Lactose Free Vanilla Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classic Lemon Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classic Plain Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Blackberry Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Cafe Latte Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Maple Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Plain Lactose Free Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Plain Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Raspberry Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Strawberry Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Classique Vanilla Yogurt,Liberte,$3.99,$2.99,$1.00,0.2506
+Cleaning Double Strength Vinegar,Allen's,$3.99,$2.99,$1.00,0.2506
+Corn Bran Squares Cereal,Quaker,$3.99,$2.99,$1.00,0.2506
+Dark Chocolate Cranberry,Nutra-Fruit,$3.99,$2.99,$1.00,0.2506
+Dark Chocolate Tim Tam Cookies,Arnott's,$3.99,$2.99,$1.00,0.2506
+Date Medeline Squares,La Petite Bretonne,$3.99,$2.99,$1.00,0.2506
 Fruit Punch Juice,Minute Maid,$3.99,$2.99,$1.00,0.2506
 Giuseppe Pizzeria Panini Bruschetta Pizza,Dr. Oetker,$3.99,$2.99,$1.00,0.2506
 Giuseppe Pizzeria Panini Supremo Pizza,Dr. Oetker,$3.99,$2.99,$1.00,0.2506
 Life Original Cereal,Quaker,$3.99,$2.99,$1.00,0.2506
 Maple and Brown Sugar Oatmeal Squares Cereal,Quaker,$3.99,$2.99,$1.00,0.2506
+Cactus Cold Press Juice,Dose,$5.99,$4.49,$1.50,0.2504
 Matcha Organic Cold Pressed Juice,Dose,$5.99,$4.49,$1.50,0.2504
+Crispy Pan All Dressed Frozen Pizza,Delissio,$7.99,$5.99,$2.00,0.2503
+Crispy Pan Pepperoni Frozen Pizza,Delissio,$7.99,$5.99,$2.00,0.2503
+Curry Chickpea Patties,Yves Veggie Cuisine,$7.99,$5.99,$2.00,0.2503
+100% Whole Grain Instant Oatmeal,Quaker,$3.99,$3.00,$0.99,0.2481
+1/2 Jos Louis,Vachon,$3.99,$3.00,$0.99,0.2481
+3 Flavors Instant Oatmeal,Quaker,$3.99,$3.00,$0.99,0.2481
+6 Pack Jelly Log,Vachon,$3.99,$3.00,$0.99,0.2481
+6 Pack Maple Log,Vachon,$3.99,$3.00,$0.99,0.2481
+All Dressed Potato Chips,Ruffles,$3.99,$3.00,$0.99,0.2481
+Avocado Dip,Litehouse,$3.99,$3.00,$0.99,0.2481
+BBQ Chips,Ruffles,$3.99,$3.00,$0.99,0.2481
+Brownies,Vachon,$3.99,$3.00,$0.99,0.2481
+Crispy Snack,Vachon,$3.99,$3.00,$0.99,0.2481
 Dino Eggs Oatmeal,Quaker,$3.99,$3.00,$0.99,0.2481
 Flamin Hot BBQ Chips,Ruffles,$3.99,$3.00,$0.99,0.2481
 Garden Dip,Litehouse,$3.99,$3.00,$0.99,0.2481
@@ -197,14 +397,34 @@ Lightly Salted Potato Chips,Ruffles,$3.99,$3.00,$0.99,0.2481
 Lightly Sweetened Apple Cinnamon Instant Oatmeal,Quaker,$3.99,$3.00,$0.99,0.2481
 Maple Brown Sugar Instant Oatmeal,Quaker,$3.99,$3.00,$0.99,0.2481
 Minced Ginger,Derlea,$3.99,$3.00,$0.99,0.2481
+Banana Chocolate Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Cinnamon Cookie Dough Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Creamy Chocolate Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Dark Chocolate Truffle Gluten Free Frozen D...,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Peach Maple Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Salted Caramel Cluster Gluten Free Frozen D...,So Delicious,$7.29,$5.49,$1.80,0.2469
+Cashew Simply Vanilla Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
+Coco Vanilla Bean Ice Cream,So Delicious,$7.29,$5.49,$1.80,0.2469
+Coconut Cold Brew Frozen Dessert,So Delicious,$7.29,$5.49,$1.80,0.2469
 Diced Mild Tomatoes,Rotel,$1.99,$1.50,$0.49,0.2462
 Diced Original Tomatoes,Rotel,$1.99,$1.50,$0.49,0.2462
 Mini Peeled Carrots,Compliments,$1.99,$1.50,$0.49,0.2462
+2x 38 Use Liquid Laundry Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
+2x 38 Use Liquid Laundry Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
+Absolute Clean Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
+Baby Dill Garlic 50% Less Salt Pickles,Bick's,$5.29,$3.99,$1.30,0.2457
+Baby Dill Ultimate Garlic Pickles,Bick's,$5.29,$3.99,$1.30,0.2457
+Black Bean Hummus,Lantana,$5.29,$3.99,$1.30,0.2457
+Cauliflower Hummus,Lantana,$5.29,$3.99,$1.30,0.2457
+Cold Water 38 loads Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
+Dark Fabrics Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
 Extra Light Olive Oil,Sensations,$5.29,$3.99,$1.30,0.2457
 Garlic Baby Dill Pickles,Bick's,$5.29,$3.99,$1.30,0.2457
 HE Laundry detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
 Laundry Delicate Detergent,La Parisienne,$5.29,$3.99,$1.30,0.2457
 Liquid Hypoallergenic 2x Utra Unscented Laundry de...,La Parisienne,$5.29,$3.99,$1.30,0.2457
+Almond Oat Cookies,Leclerc,$3.69,$2.79,$0.90,0.2439
+Chocolate Heart Cookies,Leclerc,$3.69,$2.79,$0.90,0.2439
 Everyday Gourmet Creamy Thai Chicken & Rice Soup,Campbell's,$3.29,$2.49,$0.80,0.2432
 Everyday Gourmet Moroccan Vegetable Soup,Campbell's,$3.29,$2.49,$0.80,0.2432
 Everyday Gourmet Tuscan Meatball Soup,Campbell's,$3.29,$2.49,$0.80,0.2432
@@ -212,13 +432,35 @@ Low Sodium Skipjack Flaked Tuna,Clover Leaf,$2.19,$1.66,$0.53,0.2420
 Herb & Garlic Vinta Crackers,Dare,$3.29,$2.50,$0.79,0.2401
 Jumbo Shells Pasta,Lancia,$3.29,$2.50,$0.79,0.2401
 Lasagna Pasta,Lancia,$3.29,$2.50,$0.79,0.2401
+Aero Bubbles Milk Pouch Chocolate,Nestle,$4.59,$3.49,$1.10,0.2397
+Accents Petite Cut Garlic Olive Oil Tomatoes,Aylmer,$2.19,$1.67,$0.52,0.2374
+Bear Paws Mini Molasses Cookies,Dare,$3.59,$2.75,$0.84,0.2340
+Bear Paws Minis Oatmeal Chocolate Chip Cookies,Dare,$3.59,$2.75,$0.84,0.2340
+Beef Bouillon Concentrate,Knorr,$4.29,$3.29,$1.00,0.2331
+Beef Homestyle Stock,Knorr,$4.29,$3.29,$1.00,0.2331
+Chicken Concentrate Bouillon,Bovril,$4.29,$3.29,$1.00,0.2331
+Chicken Homestyle Stock,Knorr,$4.29,$3.29,$1.00,0.2331
 Homestyle Chicken Reduced Sodium Stock,Knorr,$4.29,$3.29,$1.00,0.2331
+Caramel Single Chocolate Bar,Twix,$1.29,$0.99,$0.30,0.2326
+Carbonated Orange Spring Water,Eska,$1.29,$0.99,$0.30,0.2326
+Chocolate Bar,Snickers,$1.29,$0.99,$0.30,0.2326
 Hot House Vine Red Tomatoes,Savoura,$2.15,$1.65,$0.50,0.2326
 Maple Syrup Beans,Compliments,$1.29,$0.99,$0.30,0.2326
 Minis Tube M&M's,Mars,$1.29,$0.99,$0.30,0.2326
+Black Pepper Green Pea Crisps,Snapea Crisps,$2.59,$1.99,$0.60,0.2317
+Bean & Rice Cheddar Cheese Burrito,Amy's Kitchen,$3.89,$2.99,$0.90,0.2314
 Herbs & Spices Feta Cheese in Oil,Apetina,$3.89,$2.99,$0.90,0.2314
 Healthy Pastry Shells,Dumas,$5.19,$3.99,$1.20,0.2312
 Mini Cooked Pastry Shells,Dumas,$5.19,$3.99,$1.20,0.2312
+5 Flavours Ice Pops,Life Savers,$6.49,$4.99,$1.50,0.2311
+Caramilk Frozen Dessert,Cadbury,$6.49,$4.99,$1.50,0.2311
+Caramilk Frozen Dessert Bars,Cadbury,$6.49,$4.99,$1.50,0.2311
+Chips Ahoy! Frozen Dessert Bar,Christie,$6.49,$4.99,$1.50,0.2311
+Chips Ahoy! Ice Cream,Christie,$6.49,$4.99,$1.50,0.2311
+Chips Ahoy! Ice Cream Sandwiches,Christie,$6.49,$4.99,$1.50,0.2311
+Christie Oreo Frozen Dessert Sandwiches,Nestle,$6.49,$4.99,$1.50,0.2311
+Coffe Crisp Ice Cream,Nestle,$6.49,$4.99,$1.50,0.2311
+Coffee Crisp Frozen Dessert Bar,Nestle,$6.49,$4.99,$1.50,0.2311
 Drumstick Minis Simply Dipped Chocolate Frozen Des...,Nestle,$6.49,$4.99,$1.50,0.2311
 Drumstick Minis Vanilla Caramel Frozen Dessert,Nestle,$6.49,$4.99,$1.50,0.2311
 Drumstick Vanilla Caramel Frozen Dessert Cones,Nestle,$6.49,$4.99,$1.50,0.2311
@@ -228,38 +470,74 @@ Fuzzy Peach Ice Pops,Maynards,$6.49,$4.99,$1.50,0.2311
 Kit Kat Frozen Dessert Bars,Nestle,$6.49,$4.99,$1.50,0.2311
 Kit Kat Ice Cream,Nestle,$6.49,$4.99,$1.50,0.2311
 Mini Cone Ice Cream,Smarties,$6.49,$4.99,$1.50,0.2311
+Breaded Fully Cooked Chicken Breast Burger,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Fully Cooked Chicken Breast Nugget,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Fully Cooked Chicken Breast Strips,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Fully Cooked Gluten Free Chicken Breast Bu...,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Fully Cooked Gluten Free Chicken Breast Nu...,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Fully Cooked Gluten Free Strip Chicken Bre...,Flamingo,$12.99,$9.99,$3.00,0.2309
+Breaded Pepper Chicken Strip,Flamingo,$12.99,$9.99,$3.00,0.2309
+Cheese Tortellini,O' Sole Mio,$12.99,$9.99,$3.00,0.2309
 Fully Cooked Chicken Fries,Flamingo,$12.99,$9.99,$3.00,0.2309
 Gnocchi With Rosee Sauce,O' Sole Mio,$12.99,$9.99,$3.00,0.2309
 Mac & Cheese Pasta,O Sole Mio,$12.99,$9.99,$3.00,0.2309
 Meat Macaroni Sauce,O' Sole Mio,$12.99,$9.99,$3.00,0.2309
 Meat With Creamy Bolognaise Sauce Ravioli,O' Sole Mio,$12.99,$9.99,$3.00,0.2309
+Classic Potato Chips,Lay's,$3.89,$3.00,$0.89,0.2288
+Crowns 1lb,Broccoli,$2.59,$2.00,$0.59,0.2278
+Alphabets Pasta,Kraft Dinner,$2.29,$1.77,$0.52,0.2271
+Cheese And Tomato Kraft Dinner,Kraft,$2.29,$1.77,$0.52,0.2271
 Extra Creamy Dinner,Kraft,$2.29,$1.77,$0.52,0.2271
+Calorie Wise Miracle Whip,Kraft,$5.79,$4.49,$1.30,0.2245
 Havarti Creamy Cheese,Anco,$5.79,$4.49,$1.30,0.2245
 Havarti Fine Herbs Cheese,AGR Anco,$5.79,$4.49,$1.30,0.2245
 Havarti Garden Vegetable Cheese,AGR Anco,$5.79,$4.49,$1.30,0.2245
 Jalapeno Havarti Cheese,AGR Anco,$5.79,$4.49,$1.30,0.2245
 Luncheon Meat,Kam,$5.79,$4.49,$1.30,0.2245
 Made With Olive Oil Miracle Whip,Kraft,$5.79,$4.49,$1.30,0.2245
+Boneless Toupie Style Ham Steak,Lafleur,$5.74,$4.46,$1.28,0.2230
+Creamy Peanut Butter,Jif,$4.49,$3.49,$1.00,0.2227
 Gourmet Original Popcorn,Orville Redenbacher,$4.49,$3.49,$1.00,0.2227
 Mint 2 Ways Chocolate Bar,Kit Kat,$4.49,$3.49,$1.00,0.2227
+Carnation Rich Hot Chocolate Pods,Nestle,$8.99,$6.99,$2.00,0.2225
 Just Right Jumbo Cereal,Kellogg's,$8.99,$6.99,$2.00,0.2225
+Chili Peppers Seasoning,Trudeau Farms,$4.49,$3.50,$0.99,0.2205
+Cilantro Seasoning,Trudeau Farms,$4.49,$3.50,$0.99,0.2205
 Dill Seasoning,Trudeau Farms,$4.49,$3.50,$0.99,0.2205
 Ginger Seasonig,Trudeau Farms,$4.49,$3.50,$0.99,0.2205
+Chicken Noodle Low Sodium 4 Pack Soup Mix,Lipton,$3.19,$2.49,$0.70,0.2194
+chocolate Milk,Quï¿½bon,$3.19,$2.49,$0.70,0.2194
+Chocolate Bottle Milkshake,Lactantia,$2.29,$1.79,$0.50,0.2183
+Chocolate Milkshake,Hershey's,$2.29,$1.79,$0.50,0.2183
+Cookies N Creme Milkshake,Hershey's,$2.29,$1.79,$0.50,0.2183
 Double Chocolate Milkshake,Hershey's,$2.29,$1.79,$0.50,0.2183
 Goat Milk Soap,Caprina by Canus,$2.29,$1.79,$0.50,0.2183
 Milkshakes,Oh Henry!,$2.29,$1.79,$0.50,0.2183
 Mild and Creamy Brie Cheese,Ile de France,$8.29,$6.49,$1.80,0.2171
 Minced Garlic,Tosca,$3.19,$2.50,$0.69,0.2163
+1% m.f. Country Choice Cottage cheese,Sealtest,$4.19,$3.29,$0.90,0.2148
 Loins Pacific Pink Wild Salmon,Compliments,$6.99,$5.49,$1.50,0.2146
 Max Garden Disinfectant Spray,Lysol,$6.99,$5.49,$1.50,0.2146
+Beer,Don De Dieu,$13.99,$10.99,$3.00,0.2144
 Maudite Beer,Unibroue,$13.99,$10.99,$3.00,0.2144
 Kanikama Poke,Yuzu Sushi,$13.95,$10.99,$2.96,0.2122
+Apple Toaster Strudel,Pillsbury,$3.49,$2.75,$0.74,0.2120
+Blueberry Toaster Strudel,Pillsbury,$3.49,$2.75,$0.74,0.2120
 Flo-Thru Deodorizer,Arm & Hammer,$1.89,$1.49,$0.40,0.2116
 Deluxe 3 Pack Pizza Pocket,McCain,$3.79,$2.99,$0.80,0.2111
 Everything 10 Pack Mini Bagel,Chef Frankie,$3.79,$2.99,$0.80,0.2111
 Lactose Free Emmental Alprinois Cheese,Riviera,$6.69,$5.29,$1.40,0.2093
 Maple And Rosemary Mayonnaise,Chez Victor,$4.79,$3.79,$1.00,0.2088
+Activia Strawberry Yogurt Drink,Danone,$6.29,$4.99,$1.30,0.2067
+Chia Millet Loaf Gluten Free Bread,Udis,$6.29,$4.99,$1.30,0.2067
+Chicken And Sauce Vietroll,O Mets Chinois,$6.29,$4.99,$1.30,0.2067
+Danactive Strawberry Banana Yogurt Drink,Danone,$6.29,$4.99,$1.30,0.2067
 Kit Kat King Size Chocolate Bar,Nestle,$1.89,$1.50,$0.39,0.2063
+Black Cherry 2% Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
+Blueberry Multipack 0% Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
+Coconut Multipack 2% Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
+Crunch Coconut 2% Milk Fat Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
+Crunch Vanilla Bean 2% Milk Fat Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Extra Cream Raspberry 5% Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Extra Cream Vanilla Bean 5% Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Greek Orchard Peach 5% MF Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
@@ -267,41 +545,92 @@ Greek Yogurt Strawberry Lemon Zest 5% MF Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Lemon Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Mango 4pk 3MF Greek Yogurt,Liberte,$4.19,$3.33,$0.86,0.2053
 Diced Tomatoes,Aylmer,$2.09,$1.67,$0.42,0.2010
+3 bread  Butter Garlic Croutons,Grissol,$2.49,$1.99,$0.50,0.2008
+3 bread Ceasar Croutons,Grissol,$2.49,$1.99,$0.50,0.2008
+3 Bread Plain Croutons,Grissol,$2.49,$1.99,$0.50,0.2008
+Barbeque Sauce,St-Hubert,$2.49,$1.99,$0.50,0.2008
+Chicken Hot Sauce,St-Hubert,$2.49,$1.99,$0.50,0.2008
+Cocktail Wieners,Hygrade,$2.49,$1.99,$0.50,0.2008
+Composed Sugar,Map-O-Spread,$2.49,$1.99,$0.50,0.2008
+Creamy Coleslaw,Cest Pret,$2.49,$1.99,$0.50,0.2008
 Grab N Go Classic Pretzels Hummus,Sabra,$2.49,$1.99,$0.50,0.2008
 Lasagna Sauce,Gattuso,$2.49,$1.99,$0.50,0.2008
 Macaroni Salad,Cest Pret,$2.49,$1.99,$0.50,0.2008
+18F 5-In-1 Body Wash,Irish Spring,$4.99,$3.99,$1.00,0.2004
+Aero Milk Multi 4 Pack Chocolate Bars,Nestle,$4.99,$3.99,$1.00,0.2004
+Alfredo Pasta Sauce,O'Sole Mio,$4.99,$3.99,$1.00,0.2004
+All Bran Cereal,Kellogg's,$4.99,$3.99,$1.00,0.2004
+All Purpose Cleaner,Attitude,$4.99,$3.99,$1.00,0.2004
+Almond Sweetened Beverage,Simply,$4.99,$3.99,$1.00,0.2004
+Apple and Cheddar Sausages,La Fernandiï¿½re inc.,$4.99,$3.99,$1.00,0.2004
+Apple Crisp Mï¿½slix Cereal,Kellogg's,$4.99,$3.99,$1.00,0.2004
+Apple Pear Cranberry Frozen Yogurt,La Chagnon,$4.99,$3.99,$1.00,0.2004
+Arrabbiata Pasta Sauce,Sensations,$4.99,$3.99,$1.00,0.2004
+Arrabbiata Pasta Sauce,O' Sole Mio,$4.99,$3.99,$1.00,0.2004
+Asian Sesame Salad Kit,Eat Smart,$4.99,$3.99,$1.00,0.2004
+Avocado Ranch,Eat Smart,$4.99,$3.99,$1.00,0.2004
+Bacon & Cheddar Sausage,La Fernandiï¿½re,$4.99,$3.99,$1.00,0.2004
+Balsamic Vinaigrette & Feta Salad Kit,Eat Smart,$4.99,$3.99,$1.00,0.2004
+Black Pepper And Maple Syrup Sausages,La Fernandiere Inc,$4.99,$3.99,$1.00,0.2004
+Bottle Soft Drink,Coca-Cola,$4.99,$3.99,$1.00,0.2004
+Butter Puff Pastry Sheet,Dumas,$4.99,$3.99,$1.00,0.2004
+Caramel Ice Cream,La Chagnon,$4.99,$3.99,$1.00,0.2004
+Cereal,Cheerios,$4.99,$3.99,$1.00,0.2004
+Chocolate Cherry Ice Cream,LaChagnon,$4.99,$3.99,$1.00,0.2004
+Chocolate Fudge Ice Cream,La Chagnon,$4.99,$3.99,$1.00,0.2004
+Chopped and Crumbled Bistro Bacon Salad,Eat Smart,$4.99,$3.99,$1.00,0.2004
+Cranberry Cocktail Juice,Tropicana,$4.99,$3.99,$1.00,0.2004
 Enviro Paper Towels,Sponge Towels,$4.99,$3.99,$1.00,0.2004
 Field Blueberries Frozen Yogurt,La Chagnon,$4.99,$3.99,$1.00,0.2004
 French Vanilla Lactose Free Ice Cream,Compliments,$4.99,$3.99,$1.00,0.2004
 French Vanilla Raspberry Ice Cream,La Chagnon,$4.99,$3.99,$1.00,0.2004
 Fresh Basil Pesto,Trudeau Farms,$4.99,$3.99,$1.00,0.2004
 Fresh Herbs And Garlic Pesto,Trudeau Farms,$4.99,$3.99,$1.00,0.2004
-German Debreczi Sausage,La Fernandière,$4.99,$3.99,$1.00,0.2004
+German Debreczi Sausage,La Fernandiï¿½re,$4.99,$3.99,$1.00,0.2004
 Grape Juice,Tropicana,$4.99,$3.99,$1.00,0.2004
 Green Apple Foaming Hand Soap,Attitude,$4.99,$3.99,$1.00,0.2004
 Greenhouse Lettuce,Mirabel,$4.99,$3.99,$1.00,0.2004
 Honey Dijon Kale Salad Kit,Eat Smart,$4.99,$3.99,$1.00,0.2004
 Honey Nut Cereal,Cheerios,$4.99,$3.99,$1.00,0.2004
 Honey Nut Oat Crunch Cereal,Cheerios,$4.99,$3.99,$1.00,0.2004
-Hot Italian Sausage,La Fernandière inc.,$4.99,$3.99,$1.00,0.2004
+Hot Italian Sausage,La Fernandiï¿½re inc.,$4.99,$3.99,$1.00,0.2004
 Jumbo Olives,Unico,$4.99,$3.99,$1.00,0.2004
 Junior Baby Bok Choy,Trudeau Farm,$4.99,$3.99,$1.00,0.2004
 Lemon Vinaigrette & Parmesan Salad Kit,Eat Smart,$4.99,$3.99,$1.00,0.2004
 Mache and Beet,Mirabel,$4.99,$3.99,$1.00,0.2004
 Maple Blueberry Ice Cream,La Chagnon,$4.99,$3.99,$1.00,0.2004
 Marinara Pasta Sauce,Sensations,$4.99,$3.99,$1.00,0.2004
-Merguez Sausage,La Fernandière,$4.99,$3.99,$1.00,0.2004
-Mild Italian Sausage,La Fernandière inc.,$4.99,$3.99,$1.00,0.2004
+Merguez Sausage,La Fernandiï¿½re,$4.99,$3.99,$1.00,0.2004
+Mild Italian Sausage,La Fernandiï¿½re inc.,$4.99,$3.99,$1.00,0.2004
 Mokaccino Frozen Yogurt,LaChagnon,$4.99,$3.99,$1.00,0.2004
+100% Orange With Pulp Juice,Simply Orange,$7.49,$5.99,$1.50,0.2003
+100% Pulp Free Orange Juice,Simply Orange,$7.49,$5.99,$1.50,0.2003
 Giuseppe Pepperoni Pizza,Dr. Oetker,$7.49,$5.99,$1.50,0.2003
 Giuseppe Thin Crust Canadian Pizza,Dr. Oetker,$7.49,$5.99,$1.50,0.2003
 Kitchen Catcher Roomate Odour Guard Garbage Bags,Glad,$7.49,$5.99,$1.50,0.2003
 Kitchen Regular Easy -Tie Febreze Fresh Clean Scen...,Glad,$7.49,$5.99,$1.50,0.2003
 Kitchen Tall Easy-Tie Febreze Garbage Bags,Glad,$7.49,$5.99,$1.50,0.2003
+Blueberries Frozen Fruit,Compliments,$12.49,$9.99,$2.50,0.2002
+Boost High Protein Chocolate Powder,Nestle,$12.49,$9.99,$2.50,0.2002
 Mixed Medley Tomatoes,Tomz,$9.99,$7.99,$2.00,0.2002
 Fresh Pork BBQ Back Ribs,St-Hubert,$14.99,$11.99,$3.00,0.2001
+Anti-aging complex,Zorah Biocosmï¿½tiques,$104.99,$83.99,$21.00,0.2000
 Fruit to Go Wildberry 100% Fruit Bar,SunRype,$0.50,$0.40,$0.10,0.2000
+BBQ Fully Cooked Original Chicken,Marc Angelo,$4.99,$4.00,$0.99,0.1984
+Beef Strips,Marc Angelo,$4.99,$4.00,$0.99,0.1984
 Italian FC Chicken Strips,Marc Angelo,$4.99,$4.00,$0.99,0.1984
+25% Less Fat Luncheon Meat,Klik,$5.59,$4.49,$1.10,0.1968
+Beef With Brocolli Fit Bowl,Stouffer's,$5.59,$4.49,$1.10,0.1968
+Capelli D'Angelo Pasta,Lancia,$2.49,$2.00,$0.49,0.1968
+Cheese Sticks,Compliments,$2.49,$2.00,$0.49,0.1968
+Chewy Apple Fruit Crumble Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chewy Banana Chocolate Chip Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chewy Caramel Chocolate Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chewy Chocolate Chip Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chewy Fruit Crumble Raspberry Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chewy Rocky Road Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
+Chicken Cashew Fit Bowl,Stouffer's,$5.59,$4.49,$1.10,0.1968
+Clean Wear Ultra Thin Regular Long With Wings Pads,U By Kotex,$5.59,$4.49,$1.10,0.1968
 Diced Tomatoes,Aylmer,$2.49,$2.00,$0.49,0.1968
 Dipps Caramel Nut Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
 Dipps Chocolate Chip Granola Bars,Quaker,$2.49,$2.00,$0.49,0.1968
@@ -315,7 +644,11 @@ Fettuccine Pasta,Lancia,$2.49,$2.00,$0.49,0.1968
 Fusilli Pasta,Lancia,$2.49,$2.00,$0.49,0.1968
 Klik Luncheon Meat,Maple Leaf,$5.59,$4.49,$1.10,0.1968
 Linguine Pasta,Lancia,$2.49,$2.00,$0.49,0.1968
+Bottles Beer,Moosehead,$11.19,$8.99,$2.20,0.1966
+Butternut Squash Ravioli,O' Sole Mio,$8.69,$6.99,$1.70,0.1956
+Cheese Ravioli,O' SOLE MIO,$8.69,$6.99,$1.70,0.1956
 Italian Sausage Tortelloni,O' Sole Mio,$8.69,$6.99,$1.70,0.1956
+Boneless Chipotle & Lime Loin Filet,DuBreton,$8.20,$6.61,$1.59,0.1939
 Drumstick Chocolate Fudge Brownie Frozen Dessert C...,Nestle,$6.19,$4.99,$1.20,0.1939
 Drumstick Non Dairy Carmel Frozen Dessert,Nestle,$6.19,$4.99,$1.20,0.1939
 Drumstick Strawberry Cheesecake Frozen Dessert Con...,Nestle,$6.19,$4.99,$1.20,0.1939
@@ -323,28 +656,41 @@ Drumstick Sweet & Salty Caramel Frozen Dessert Con...,Nestle,$6.19,$4.99,$1.20,0
 Drumstick Vanilla Chocolate Frozen Dessert,Nestle,$6.19,$4.99,$1.20,0.1939
 fruit lamb Baby food,Mother Hen,$9.89,$7.99,$1.90,0.1921
 Fritz Kaiser Cheese Empereur Cheese,Fritz Kaiser Cda,$8.44,$6.82,$1.62,0.1919
+Chicken Pie,St-Hubert,$3.69,$2.99,$0.70,0.1897
 Dried White Beans,Thompson,$3.69,$2.99,$0.70,0.1897
 Dry Red Kidney Beans,Thompson,$3.69,$2.99,$0.70,0.1897
+Beef Onion Broth,Canton,$5.29,$4.29,$1.00,0.1890
 Fondue Original 25% Less Salt Broth,Canton,$5.29,$4.29,$1.00,0.1890
 manzanilla Olives,Habitant,$3.69,$3.00,$0.69,0.1870
 manzanilla stuffed Olives,Gattuso,$3.69,$3.00,$0.69,0.1870
+Apple Refrigerated Not from Concentrated Juice,Oasis Premium,$4.29,$3.49,$0.80,0.1865
 Fresh Expression Classic Coconut Butter Antiperspi...,Secret,$4.29,$3.49,$0.80,0.1865
 Fresh Expression Ooh La La Lavender Antiperspirant,Secret,$4.29,$3.49,$0.80,0.1865
 Lean Flat Sliced Capocollo,Mastro,$4.29,$3.49,$0.80,0.1865
+Bold BBQ Tortilla Chips,Doritos,$4.29,$3.50,$0.79,0.1841
+Chile Limon Chips,Doritos,$4.29,$3.50,$0.79,0.1841
+Cool Ranch Tortilla Chips,Doritos,$4.29,$3.50,$0.79,0.1841
 Flamin' Hot Nacho Tortilla Chips,Doritos,$4.29,$3.50,$0.79,0.1841
 Jalapeno & Cheddar Tortilla Chips,Doritos,$4.29,$3.50,$0.79,0.1841
 Lasagna Regular Fresh Pasta,OSole Mio,$4.89,$3.99,$0.90,0.1840
+Black Cherry Greek Yogurt Alternative,Daiya,$2.19,$1.79,$0.40,0.1826
+Chicken Bouillon,Parador,$5.49,$4.49,$1.00,0.1821
+Chocolate & Hazelnut Spread,Laura Secord,$5.49,$4.49,$1.00,0.1821
+Cookie Butter Cookinotti,Penotti,$5.49,$4.49,$1.00,0.1821
 Fat Free French Vanilla Coffee Whitener,International Delight,$5.49,$4.49,$1.00,0.1821
 French Vanilla Cream,International Delight,$5.49,$4.49,$1.00,0.1821
 Gourmet granola Aphrodisiac,La Fourmi Bionique,$5.49,$4.49,$1.00,0.1821
 Granola Honey Maca Natural Cereal,Fourmi Bionique,$5.49,$4.49,$1.00,0.1821
 Hazelnut Coffee Whitener,International Delight,$5.49,$4.49,$1.00,0.1821
+Bali Ocean Refill 2Pk Scented Oil,Airwick,$10.99,$8.99,$2.00,0.1820
+Cubes Atlantic Salmon,Grizzly,$10.99,$8.99,$2.00,0.1820
 Extra Pale Ale 5.0% Alcohol Beer,Griffon,$10.99,$8.99,$2.00,0.1820
 Life Scents Forest Waters Scented Oil,Airwick,$10.99,$8.99,$2.00,0.1820
 Life Scents Summer Delights Scented Oil,Airwick,$10.99,$8.99,$2.00,0.1820
 Men Care Deep Clean Shampoo,Dove,$10.99,$8.99,$2.00,0.1820
 Moisture Therapy Daily Conditioner,Dove,$10.99,$8.99,$2.00,0.1820
 Moisture Therapy Daily Shampoo,Dove,$10.99,$8.99,$2.00,0.1820
+Deguststion Mix Pack Beer,Belgh Brasse,$21.99,$17.99,$4.00,0.1819
 Le P'tit Picnic Ham,Gaspesien,$21.99,$17.99,$4.00,0.1819
 Endurance Chocolate  Banana Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
 Endurance Chocolate Mint Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
@@ -352,27 +698,73 @@ Endurance Mango & Lemon Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
 Energy Apricot Cranberry Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
 Energy Chocolate & Expresso Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
 Energy Coconut & Cherry Bar,Kronobar,$35.99,$29.49,$6.50,0.1806
+Bottle Soda,Pepsi,$5.49,$4.50,$0.99,0.1803
+Caffeine Free Diet Soft Drink,Pepsi,$5.49,$4.50,$0.99,0.1803
 Diet Multipack Soft Drink,Pepsi,$5.49,$4.50,$0.99,0.1803
 Diet Soda,Pepsi,$5.49,$4.50,$0.99,0.1803
 Diet Soda,7Up,$5.49,$4.50,$0.99,0.1803
 Ginger Ale Soft Drink,Schweppes,$5.49,$4.50,$0.99,0.1803
 Lemon Iced Tea,Brisk,$5.49,$4.50,$0.99,0.1803
 Max,Pepsi,$5.49,$4.50,$0.99,0.1803
+1.5% Tropical Assorted Yogurt,Iï¿½GO,$7.29,$5.99,$1.30,0.1783
 Green Tea Bags,Lipton,$7.29,$5.99,$1.30,0.1783
 Lemon Ginseng Green Tea,Lipton,$7.29,$5.99,$1.30,0.1783
+Chocolate Chip Cookies,Gogo Quinoa,$7.89,$6.49,$1.40,0.1774
 HE Wld Flower 36 Use Laundry Detergent,Attitude,$8.49,$6.99,$1.50,0.1767
 Kalamata Sliced Olives,Unico,$3.99,$3.29,$0.70,0.1754
+Black Forest Shaved Ham,Olymel,$11.49,$9.49,$2.00,0.1741
+Chlorophyll Gum,Excel,$1.19,$0.99,$0.20,0.1681
 Juicy Fruit Singles Sugar Free 12 Piece Gum,Wrigley's,$1.19,$0.99,$0.20,0.1681
+Alfredo Pasta Sauce Mix,Knorr,$1.79,$1.49,$0.30,0.1676
+Caesar Croutons,Grissol,$2.39,$1.99,$0.40,0.1674
 Garlic Croutons,Grissol,$2.39,$1.99,$0.40,0.1674
+1 Ply Napkins,Royale,$2.99,$2.49,$0.50,0.1672
+Birthday Cake Rice Krispies Treats,Kellogg's,$2.99,$2.49,$0.50,0.1672
+Blueberry 5 Pack Pastry Crisps,Kellogg's,$2.99,$2.49,$0.50,0.1672
+Cat Litter Deodorizer,Arm & Hammer,$2.99,$2.49,$0.50,0.1672
+Chicken Bouillon Cubes,Knorr,$2.99,$2.49,$0.50,0.1672
+Classic Chicken Noodle Soup,Campbell's,$2.99,$2.49,$0.50,0.1672
+Cookies N Cream 5 Pack Pastry Crisps,Kellogg's,$2.99,$2.49,$0.50,0.1672
+Cookies 'N Creme Rice Krispies Treats,Kellogg's,$2.99,$2.49,$0.50,0.1672
+Creamy Tomato Soup,Campbell's,$2.99,$2.49,$0.50,0.1672
+Dairy Milk Chocolate Bar,Cadbury,$2.99,$2.49,$0.50,0.1672
 Garden Minestrone Soup,Campbell's,$2.99,$2.49,$0.50,0.1672
 Homestyle Rustico Lentil Soup,Campbell's,$2.99,$2.49,$0.50,0.1672
 Horseradish,Kuehne,$2.99,$2.49,$0.50,0.1672
+Activia Stirred Strawberry Yogurt,Danone,$4.19,$3.49,$0.70,0.1671
+Caramelized Onion Focaccia Bread,Compliments,$4.19,$3.49,$0.70,0.1671
+Coffee Mate Original Coffee Cream,Nestle,$4.19,$3.49,$0.70,0.1671
 French Vanilla Powder Coffee Whitener,Coffee Mate,$4.19,$3.49,$0.70,0.1671
 Mini Tortilla Bowl,Old El Paso,$4.19,$3.49,$0.70,0.1671
+8's Raisin Buns,Pom,$4.79,$3.99,$0.80,0.1670
+Butterscotch Wave Ice Cream,Compliments,$4.79,$3.99,$0.80,0.1670
+Caramilk 4 Pack Chocolate Bar,Cadbury,$4.79,$3.99,$0.80,0.1670
+Chocolate Chip Organic 5 Pack Granola Bars,MadeGood,$4.79,$3.99,$0.80,0.1670
+Chocolate Lovers Family Pack Pudding,Snack Pack,$4.79,$3.99,$0.80,0.1670
+Cotton Candy Ice Cream,Compliments,$4.79,$3.99,$0.80,0.1670
+Cretons,Bilopage,$4.79,$3.99,$0.80,0.1670
+Crunchie Chocolate Bar,Cadbury,$4.79,$3.99,$0.80,0.1670
+Dairy Milk Chocolate Bar,Cadbury,$4.79,$3.99,$0.80,0.1670
 Jersey Milk 4 Pack Chocolate Bars,Neilson,$4.79,$3.99,$0.80,0.1670
 Light French Vanilla Ice Cream,Compliments,$4.79,$3.99,$0.80,0.1670
 Minis Chocolate Banana Organic Granola Bars,MadeGood,$4.79,$3.99,$0.80,0.1670
 Minis Chocolate Banana Organic Granola Bars,MadeGood,$4.79,$3.99,$0.80,0.1670
+3 Cheese And Spinach Ravioli,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
+3 Colored Cheese Tortellini Pasta,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
+5 Cheese Tortellini Pasta,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
+All Purpose Flour,Robin Hood,$5.99,$4.99,$1.00,0.1669
+All Purpose Flour,Five Roses,$5.99,$4.99,$1.00,0.1669
+Apero Organic Tomatoes,Biologico,$5.99,$4.99,$1.00,0.1669
+BBQ Flavor Peanuts,Planters,$5.99,$4.99,$1.00,0.1669
+Beef And Wine Tortellini Pasta,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
+Blueberry Muffin,FGF Muffin,$5.99,$4.99,$1.00,0.1669
+Carrot Muffins,FGF Muffin,$5.99,$4.99,$1.00,0.1669
+Cauliflower And Spinach Ravioli Pasta,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
+Cheese Loaf Velveeta,Kraft,$5.99,$4.99,$1.00,0.1669
+Cheez Whiz,Kraft,$5.99,$4.99,$1.00,0.1669
+Chicken Natural Bacon,Maple Lodge Farms,$6.59,$5.49,$1.10,0.1669
+Chocolate Chip Muffins,FGF Muffins,$5.99,$4.99,$1.00,0.1669
+Decafe Nepresso Capsule,Caffitaly,$5.99,$4.99,$1.00,0.1669
 Dry Roasted Peanuts,Planters,$5.99,$4.99,$1.00,0.1669
 Family Pack Veggie Wieners,Yves Veggie Cuisine,$5.99,$4.99,$1.00,0.1669
 Giuseppe Pizzeria Mini Pepperoni 8 Pack Pizza,Dr. Oetker,$7.19,$5.99,$1.20,0.1669
@@ -388,6 +780,18 @@ Mediterranean Vanilla Yogurt,Liberte,$5.99,$4.99,$1.00,0.1669
 Men + Care Invisible Solid Extra Fresh Antiperspir...,Dove,$5.99,$4.99,$1.00,0.1669
 Mini Chicken Ravioli Pasta,O'Sole Mio,$5.99,$4.99,$1.00,0.1669
 Mixed Medley Tomatoes,Tomz,$5.99,$4.99,$1.00,0.1669
+Assorted YOP Drinkable Yogurt,Yoplait,$11.99,$9.99,$2.00,0.1668
+Barbeque Chicken Chunks,Pinty's,$17.99,$14.99,$3.00,0.1668
+Barbeque Chicken Wings,Pinty's,$17.99,$14.99,$3.00,0.1668
+Boston Lager,Samuel Adams,$11.99,$9.99,$2.00,0.1668
+Buffalo Chicken Wings,Pinty's,$17.99,$14.99,$3.00,0.1668
+Can Cider,Rabaska,$11.99,$9.99,$2.00,0.1668
+Cherry Bottle Cider,Rabaska,$11.99,$9.99,$2.00,0.1668
+Clump & Seal Light Weight Cat Litter,Arm & Hammer,$15.59,$12.99,$2.60,0.1668
+Cuddle Up Concentrated Fabic Softener,Snuggle,$11.99,$9.99,$2.00,0.1668
+Carbonated Orange Water,Perrier,$1.99,$1.66,$0.33,0.1658
+Carbonated Strawberry Water,Perrier,$1.99,$1.66,$0.33,0.1658
+Carbonated Water,San Pellegrino,$1.99,$1.66,$0.33,0.1658
 Flaked Light Lemon & Ginger With Sesame Tuna,Clover Leaf,$1.99,$1.66,$0.33,0.1658
 Flaked Light Peanut Satay Tuna,Clover Leaf,$1.99,$1.66,$0.33,0.1658
 Flaked Light Spicy Thai Tuna,Clover Leaf,$1.99,$1.66,$0.33,0.1658
@@ -402,6 +806,18 @@ Light Spoon Pouch Tuna,Clover Leaf,$1.99,$1.66,$0.33,0.1658
 Minigo Strawberry Banana Yogurt,Yoplait,$3.99,$3.33,$0.66,0.1654
 Minigo Strawberry Yogurt,Yoplait,$3.99,$3.33,$0.66,0.1654
 Minigo Vanilla 2% Milk Fat Drinkable Yogurt,Yoplait,$3.99,$3.33,$0.66,0.1654
+Apple, Strawberry, and Raspberry Juice,Vitapom,$3.59,$3.00,$0.59,0.1643
+Apple And Marble Cheddar,G&G,$2.99,$2.50,$0.49,0.1639
+Apple And White Cheddar,G&G,$2.99,$2.50,$0.49,0.1639
+Bear Paws Cheddar Crackers,Dare,$2.99,$2.50,$0.49,0.1639
+Bear Paws Cheddar Pouch Crackers,Dare,$2.99,$2.50,$0.49,0.1639
+Bear Paws Mix Cheddar Crackers,Dare,$2.99,$2.50,$0.49,0.1639
+Bear Paws Three Cheese Crackers,Dare,$2.99,$2.50,$0.49,0.1639
+Bear Paws White Cheddar Mix Crackers,Dare,$2.99,$2.50,$0.49,0.1639
+Black Peppercorn Grinder,Club House,$2.99,$2.50,$0.49,0.1639
+Breton Popped SuperGrain BBQ Crisps,Dare,$2.99,$2.50,$0.49,0.1639
+Cranberry Cocktail,Compliments,$2.99,$2.50,$0.49,0.1639
+Crunchy Oats N Honey Granola Bars,Nature Valley,$2.99,$2.50,$0.49,0.1639
 Endurance Chocolate  Banana Bar,Kronobar,$2.99,$2.50,$0.49,0.1639
 Endurance Chocolate Mint Bar,Kronobar,$2.99,$2.50,$0.49,0.1639
 Endurance Mango & Lemon Bar,Kronobar,$2.99,$2.50,$0.49,0.1639
@@ -416,34 +832,67 @@ Kale Flakes Spice,Badia,$5.49,$4.59,$0.90,0.1639
 Ketchup Veggie Crisps,Dare,$2.99,$2.50,$0.49,0.1639
 Meat Pasta Sauce,Catelli,$2.99,$2.50,$0.49,0.1639
 Minced Garlic,Derlea,$2.99,$2.50,$0.49,0.1639
+Black No Salt Added Kidney Beans,Bonduelle,$1.79,$1.50,$0.29,0.1620
+Dark Red No Salt Added Kidney Beans,Bonduelle,$1.79,$1.50,$0.29,0.1620
 Green Peas,Wasabi,$1.79,$1.50,$0.29,0.1620
 Le Mont Jacob Cheese,Blackburn,$11.14,$9.34,$1.80,0.1616
+Apple Grape Juice,Compliments,$1.49,$1.25,$0.24,0.1611
+Apple Juice,Compliments,$1.49,$1.25,$0.24,0.1611
+Blueberry Muffin Mix,Betty Crocker,$1.49,$1.25,$0.24,0.1611
+Chocolate Chip Cookie Mix,Betty Crocker,$1.49,$1.25,$0.24,0.1611
+Chocolate Chip Muffin Mix,Betty Crocker,$1.49,$1.25,$0.24,0.1611
 Fruit Punch Juice,Compliments,$1.49,$1.25,$0.24,0.1611
 Gourmand Quinoa,Tipiak,$6.29,$5.29,$1.00,0.1590
+3 Ply 88 Sheets Facial Tissues,Royale,$9.49,$7.99,$1.50,0.1581
+5 Cheese 3 Colors Tortellini Pasta,O'Sole Mio,$9.49,$7.99,$1.50,0.1581
+Cheese Spinach Ravioli Pasta,O'Sole Mio,$9.49,$7.99,$1.50,0.1581
+Cream Balsamic,TONDO,$9.49,$7.99,$1.50,0.1581
 Five Cheese Tortellini Pasta,O' Sole Mio,$9.49,$7.99,$1.50,0.1581
 Haddock Fish Sticks,Blue Water,$9.49,$7.99,$1.50,0.1581
 Italian Sausage Tortellini Pasta,O' Sole Mio,$9.49,$7.99,$1.50,0.1581
 Lemon Herb Fish Fillets,Blue Water,$9.49,$7.99,$1.50,0.1581
 Just Cranberry Juice,R.W. Knudsen Family,$8.29,$6.99,$1.30,0.1568
+Almond Chocolate Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+Almond Coconut Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+Almond Unsweetened Vanilla Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+Cashew Unsweetened Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+Cashew Unsweetened Vanilla Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+Coconut Vanilla Unsweetened Beverage,Silk,$4.49,$3.79,$0.70,0.1559
 Everything Bagel Spice,Badia,$4.49,$3.79,$0.70,0.1559
 Gluten Free Vanilla Soy Beverage,Silk,$4.49,$3.79,$0.70,0.1559
+14 Arpents Cheese,Medard,$11.68,$9.88,$1.80,0.1541
+Balance Wild Blueberry Mini Yogurt Bars,Compliments,$6.49,$5.49,$1.00,0.1541
+Brown Rice Sprouted Veganic Cereal,One Degree,$6.49,$5.49,$1.00,0.1541
 Easter Eggs Mini Bag Chocolate,Kinder,$6.49,$5.49,$1.00,0.1541
 Feta & Spinach Chicken Sausage,Marcangelo,$6.49,$5.49,$1.00,0.1541
 Gerkins Original Pickles,Maille,$6.49,$5.49,$1.00,0.1541
 Mango and Jalapeno Chicken Sausage,Marc Angelo,$6.49,$5.49,$1.00,0.1541
 Extra Virgin Olive Oil,Mas Den Gil,$25.99,$21.99,$4.00,0.1539
+Black Forest Smoked Ham,Paysan,$11.79,$9.99,$1.80,0.1527
 Double India Pale Ale Beer 8%,St-Ambroise,$11.79,$9.99,$1.80,0.1527
 Dried Forest mix,Morille Quebec,$3.29,$2.79,$0.50,0.1520
 Dried Oyster Mushrooms,Morille Quebec,$3.29,$2.79,$0.50,0.1520
-Economic Mix Dried Mushroom,Morille Québec,$3.29,$2.79,$0.50,0.1520
+Economic Mix Dried Mushroom,Morille Quï¿½bec,$3.29,$2.79,$0.50,0.1520
+1% MF Mango Kefir,Liberte,$5.29,$4.49,$0.80,0.1512
+1% MF Strawberry Kefir,Liberte,$5.29,$4.49,$0.80,0.1512
+1% MG Plain Kefir,Liberte,$5.29,$4.49,$0.80,0.1512
 Herbs Vege-Creton,Porat,$5.29,$4.49,$0.80,0.1512
 Extra Light Olive Oil,Bertolli,$9.99,$8.49,$1.50,0.1502
 Extra Virgin Rich Taste Olive Oil,Bertolli,$9.99,$8.49,$1.50,0.1502
+Colombian Dark Coffee K-Cups,Van Houtte,$19.99,$16.99,$3.00,0.1501
+Dark House Blend 30s Coffee K-Cups,Van Houtte,$19.99,$16.99,$3.00,0.1501
+Decaffeinated Original House Blend Medium Roast Co...,Van Houtte,$19.99,$16.99,$3.00,0.1501
 Dolce Crema Fair Trade Organic 24ct KCup,Van Houtte,$19.99,$16.99,$3.00,0.1501
 K-Cup Espresso Superiore Fair Trade Coffee,Van Houtte,$19.99,$16.99,$3.00,0.1501
 K-Cup Hazelnut Light Coffee,Van Houtte,$19.99,$16.99,$3.00,0.1501
 Medium Columbian Coffee K-Cup,Van Houtte,$19.99,$16.99,$3.00,0.1501
 Medium Original House Blend Coffee K-Cups,Van Houtte,$19.99,$16.99,$3.00,0.1501
+Balsamic Vinegar,Bertolli,$4.69,$3.99,$0.70,0.1493
+Blenders Tea Bags,Twinings,$4.69,$3.99,$0.70,0.1493
+Camomile Honey And Vanilla Tea Bags,Twinings,$4.69,$3.99,$0.70,0.1493
+Chai Teabags,Twinings,$4.69,$3.99,$0.70,0.1493
+Crunchers Chocolate,Reese,$4.69,$3.99,$0.70,0.1493
+Decaffeinated Earl Grey Tea Bags,Twinings,$4.69,$3.99,$0.70,0.1493
 Earl Grey Tea Bags,Twinings,$4.69,$3.99,$0.70,0.1493
 English Breakfast Decaffeinated Tea,Twinings,$4.69,$3.99,$0.70,0.1493
 English Breakfast Tea,Twinings,$4.69,$3.99,$0.70,0.1493
@@ -472,6 +921,15 @@ Frozen Spinach & Creamy Sauce Lasagna,Delices Complices,$6.79,$5.79,$1.00,0.1473
 IPA Des Dieux  Can Beer,Le Grimoire,$4.69,$4.00,$0.69,0.1471
 Medium Cheddar,RIVIERA,$6.19,$5.29,$0.90,0.1454
 Facial Cleansing Aloe Vera Hydrating Wipes,St. Ives,$7.59,$6.49,$1.10,0.1449
+2% MF Milk,Grand-Prï¿½,$3.49,$2.99,$0.50,0.1433
+37% Less Fat Wheat Thins,Christie,$3.49,$2.99,$0.50,0.1433
+Balance Partially Skim Mozzarella Shredded Cheese,Compliments,$3.49,$2.99,$0.50,0.1433
+Canadian Harvest Cherries 3.2% Yogurt,IOGO,$3.49,$2.99,$0.50,0.1433
+canadian Harvest Peaches 3.2% Yogurt,Iogo,$3.49,$2.99,$0.50,0.1433
+Canadian Harvest Rapsberry-Cranberry 3.2% Yogurt,IOGO,$3.49,$2.99,$0.50,0.1433
+Cheddar And Mozzarella Shredded Cheese,Compliments,$3.49,$2.99,$0.50,0.1433
+Citrus Juice,Five Alive,$3.49,$2.99,$0.50,0.1433
+Complete Whitening + Deep Clean Toothpaste,Crest,$3.49,$2.99,$0.50,0.1433
 Fruit On Bottom 2.8% Strawberry Raspberry Yogurt,IOGO,$3.49,$2.99,$0.50,0.1433
 Fruit On Bottom Blueberry 2.8% Yogurt,IOGO,$3.49,$2.99,$0.50,0.1433
 Good Thins Corn Sea Salt Crackers,Christie,$3.49,$2.99,$0.50,0.1433
@@ -482,11 +940,25 @@ Good Thins Rice Simply Salt Crackers,Christie,$3.49,$2.99,$0.50,0.1433
 Guacamole With Tostitos Rolls Dip,Sabra,$3.49,$2.99,$0.50,0.1433
 Invisible Solid Sweet Surrender Anti Perspirant,Ban,$3.49,$2.99,$0.50,0.1433
 Mentho Lyptus Honey Lemon Bag Cough Drops,Halls,$3.49,$2.99,$0.50,0.1433
+Chow Mein,Blue Dragon,$4.19,$3.59,$0.60,0.1432
+100% Pure Canola Oil,Mazola,$6.99,$5.99,$1.00,0.1431
+Black Pepper Gluten Free Capicollo,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
+Black Sweet-ish Cold Brew Coffee,Stok,$6.99,$5.99,$1.00,0.1431
+Black Unsweetened Cold Brew Coffee,Stok,$6.99,$5.99,$1.00,0.1431
+Calabrese Sliced Gluten Free Dry Salami,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
+Caramel Ice Cream Bars,Magnum,$6.99,$5.99,$1.00,0.1431
+Carbonated Spring Water,Perrier,$6.99,$5.99,$1.00,0.1431
+Carrot Juice,Bolthouse Farms,$6.99,$5.99,$1.00,0.1431
+Cauliflower and Bacon Soup,O'Sole Mio,$6.99,$5.99,$1.00,0.1431
+Cheddar Style Vegan Cheese,Nature et moi,$6.99,$5.99,$1.00,0.1431
+Chimichurri Sauce,LeGrand,$6.99,$5.99,$1.00,0.1431
+Classic Pesto,LeGrand,$6.99,$5.99,$1.00,0.1431
+Cranberry Juice,A+Superfruit,$6.99,$5.99,$1.00,0.1431
 Dry Cured Sliced Pepperoni,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
 Dry Sliced Chorizo Sausage,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
 Dry Sliced Pepperoni,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
 extra virgin Olive oil,Pastene,$6.99,$5.99,$1.00,0.1431
-Fruit On Botton Blueberry/Blueberry Blackberry Yog...,IÖGO,$6.99,$5.99,$1.00,0.1431
+Fruit On Botton Blueberry/Blueberry Blackberry Yog...,Iï¿½GO,$6.99,$5.99,$1.00,0.1431
 Garden Pesto,LeGrand,$6.99,$5.99,$1.00,0.1431
 Gluten Free Prosciutto Cotto,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
 Gourmet Chipotle Mayonnaise,Sir Kensington's,$6.99,$5.99,$1.00,0.1431
@@ -499,32 +971,86 @@ Lemon Carbonated Water,Perrier,$6.99,$5.99,$1.00,0.1431
 Lime Carbonated Water,Perrier,$6.99,$5.99,$1.00,0.1431
 Little Charmers Red 3 lb Potatoes,The Little Potato Company,$6.99,$5.99,$1.00,0.1431
 Marsala Sliced Gluten Free Dry Salami,Fantino & Mondello,$6.99,$5.99,$1.00,0.1431
+Asana 3Pk Smoothie Cubes,Evive,$10.49,$8.99,$1.50,0.1430
+Chicken Tender,Arahova,$13.99,$11.99,$2.00,0.1430
+Complete Clean Scented Baby Wipes,Pampers,$10.49,$8.99,$1.50,0.1430
+1% Purfiltre Milk,Lactantia,$8.49,$7.29,$1.20,0.1413
+2% Purfiltre Milk,Lactantia,$8.49,$7.29,$1.20,0.1413
 Homogenized Purfiltre Milk,Lactantia,$8.49,$7.29,$1.20,0.1413
+Amos Kristall Witte Beer,Bittt a Tibi,$3.49,$3.00,$0.49,0.1404
+Caramel Milk No Sugar Added Bar,Russell Stover,$3.49,$3.00,$0.49,0.1404
 Lemonade Fresh Juice,Tradition,$3.49,$3.00,$0.49,0.1404
 Light Cans Beer,Budweiser,$3.49,$3.00,$0.49,0.1404
+1% Fine Filtered Milk,Natrel,$4.99,$4.29,$0.70,0.1403
+10% MF Cream,Natrel,$4.99,$4.29,$0.70,0.1403
+2% Fine Filtered Milk,Natrel,$4.99,$4.29,$0.70,0.1403
+3.25% Fine Filtered Milk,Natrel,$4.99,$4.29,$0.70,0.1403
+all-dressed Frozen pizza,Mikes,$9.29,$7.99,$1.30,0.1399
+Chicken & Cheese Saccottini Pasta,O' Sole Mio,$9.29,$7.99,$1.30,0.1399
 Fresh Air 111 Use Fabric Softener,Fleecy,$9.29,$7.99,$1.30,0.1399
+2% UltraPur Milk,Lactantia,$5.79,$4.99,$0.80,0.1382
+3 Bean Salad,Fontaine Santï¿½,$5.79,$4.99,$0.80,0.1382
+3.8% Organic Milk,Lactanti,$5.79,$4.99,$0.80,0.1382
+Aranciata Rossa Sparkling Fruit Drink,San Pellegrino,$5.79,$4.99,$0.80,0.1382
+Aranciata Sparkling Mineral Water,Sanpellegrino,$5.79,$4.99,$0.80,0.1382
+Bruschetta Salad,Fontaine Santï¿½,$5.79,$4.99,$0.80,0.1382
+Clementina Sparkling Fruit Drink,San Pellegrino,$5.79,$4.99,$0.80,0.1382
+Couscous Salad,Fontaine Santï¿½,$5.79,$4.99,$0.80,0.1382
 Gouda Jalapeno Cheese,Anco,$5.79,$4.99,$0.80,0.1382
 Gouda Light Cheese,Anco,$5.79,$4.99,$0.80,0.1382
 Limonata Sparkling Mineral Water,San Pellegrino,$5.79,$4.99,$0.80,0.1382
 Melograno E Arancia Sparkling Fruit Drink,San Pellegrino,$5.79,$4.99,$0.80,0.1382
 Mild Gouda Cheese,Anco,$5.79,$4.99,$0.80,0.1382
+0% Plain Greek Yogurt,Compliments,$5.19,$4.49,$0.70,0.1349
+0% Vanilla Greek Yogurt,Compliments,$5.19,$4.49,$0.70,0.1349
+Barely There Liners,U By Kotex,$5.19,$4.49,$0.70,0.1349
+Bugles Original Corn Snack,General Mills,$2.89,$2.50,$0.39,0.1349
+Click Regular Absorbency Tampons,U By Kotex,$5.19,$4.49,$0.70,0.1349
+Click Super Absorbency Tampons,U By Kotex,$5.19,$4.49,$0.70,0.1349
 Energizing Coffee Facial Scrub,St. Ives,$5.19,$4.49,$0.70,0.1349
+Dark Chocolate Raisins,John Vince,$1.72,$1.49,$0.23,0.1337
+Cabra Al Vino Cheese,Rocinante,$7.49,$6.49,$1.00,0.1335
+Cabra Romero Cheese,Rocinante,$7.49,$6.49,$1.00,0.1335
+Beyond Simply 9 Dog Chicken & Barley Dog Food,Purina,$14.99,$12.99,$2.00,0.1334
 Extra Virgin Olive Oil,Colavita,$14.99,$12.99,$2.00,0.1334
 Inspiration Cheese,Bergeron,$14.99,$12.99,$2.00,0.1334
 Inspiration Flavours Cheese,Bergeron,$14.99,$12.99,$2.00,0.1334
+All Seasoning Spice,Badia,$3.79,$3.29,$0.50,0.1319
+4% Beer,Coors Light,$37.99,$32.99,$5.00,0.1316
+Almond Florentines,Jules Destrooper,$4.59,$3.99,$0.60,0.1307
+Chili Sauce,Heinz,$4.59,$3.99,$0.60,0.1307
+Chow Mein Noodles,Farkay,$4.59,$3.99,$0.60,0.1307
 Herbal Mango Hibiscus Iced Tea,Pure Leaf,$4.59,$3.99,$0.60,0.1307
 Herbals Lemonade Hibiscus Ready to Drink Tea,Pure Leaf,$4.59,$3.99,$0.60,0.1307
 Lemon Iced Tea Juice,Pure Leaf,$4.59,$3.99,$0.60,0.1307
 Lemonade Juice,Tropicana,$4.59,$3.99,$0.60,0.1307
 Lemonade With Tangerine Juice,Tropicana,$4.59,$3.99,$0.60,0.1307
+4% Alcohol Beer,Coors Light,$11.49,$9.99,$1.50,0.1305
+5.5% Alcohol Beer,Molson Dry,$11.49,$9.99,$1.50,0.1305
 Fermented Unflavoured Superfood,Genuine Health,$22.99,$19.99,$3.00,0.1305
 Marble Cheese Strings,Black Diamond,$11.49,$9.99,$1.50,0.1305
-Gourmet Morning Café Coffee K-Cup,Folgers,$7.99,$6.97,$1.02,0.1277
+Gourmet Morning Cafï¿½ Coffee K-Cup,Folgers,$7.99,$6.97,$1.02,0.1277
 Intensely Dark 12 Pack Coffee K-Cups,Folgers,$7.99,$6.97,$1.02,0.1277
 Lively Colombian K-Cup Coffee,Folgers,$7.99,$6.97,$1.02,0.1277
+Chocolate Coated Vanilla Ice Cream Bars,So Delicious,$6.29,$5.49,$0.80,0.1272
 italian Olive oil,Pastene,$6.29,$5.49,$0.80,0.1272
 Mocha Almond Fudge Frozen Desert,So Delicious,$6.29,$5.49,$0.80,0.1272
+Dairy-Free Vanilla Yogurt,LeGrand,$2.29,$2.00,$0.29,0.1266
+Bread Crumbs Italian,Pastene,$3.19,$2.79,$0.40,0.1254
 Fridge Fresh Deodorizer,Arm & Hammer,$3.19,$2.79,$0.40,0.1254
+60 M Cling Wrap,Glad,$3.99,$3.49,$0.50,0.1253
+All Purpose Flour,Compliments,$3.99,$3.49,$0.50,0.1253
+All Purpose Unbleached Flour,Compliments,$3.99,$3.49,$0.50,0.1253
+Arugula Gourmet Pesto,Sardo,$3.99,$3.49,$0.50,0.1253
+Baby Cut Carrots,Compliments,$3.99,$3.49,$0.50,0.1253
+Basil Gourmet Pesto,Sardo,$3.99,$3.49,$0.50,0.1253
+Beef Apple Uncrd Bacon Bar,Epic Provisions,$3.99,$3.49,$0.50,0.1253
+Beef Bouillon Powder,Knorr,$3.99,$3.49,$0.50,0.1253
+Belvita Banana Oatmeal Chocolate Cookies,Christie,$3.99,$3.49,$0.50,0.1253
+Black Olive Tapenade,SARDO,$3.99,$3.49,$0.50,0.1253
+Chicken Bouillon Powder,Knorr,$3.99,$3.49,$0.50,0.1253
+Cool Moisture Bar Soap,Dove,$3.99,$3.49,$0.50,0.1253
+Cool Whip Vanilla Dessert Topping,Kraft,$3.99,$3.49,$0.50,0.1253
 Ella Potatoe,Mamzells,$3.99,$3.49,$0.50,0.1253
 EZ Squeeze Tartar Sauce,Hellmann's,$3.99,$3.49,$0.50,0.1253
 Fleur,Mirabel,$3.99,$3.49,$0.50,0.1253
@@ -536,27 +1062,65 @@ Mayonnaise 1/2 The Fat Dressing,Hellmann's,$3.99,$3.49,$0.50,0.1253
 Mediterranean Pasta Bistro Bowl,Clover Leaf,$3.99,$3.49,$0.50,0.1253
 Mens Deep Clean Bar,Dove,$3.99,$3.49,$0.50,0.1253
 Mexican Rice Bistro Bowl,Clover Leaf,$3.99,$3.49,$0.50,0.1253
+All Purpose Liquid Seasoning,Bragg,$7.99,$6.99,$1.00,0.1252
+Artisanal Gluten Free Organic Bread,Cuisine L'Angelique,$7.99,$6.99,$1.00,0.1252
+Baguette Gluten Free Organic Bread,Cuisine L'Angelique,$7.99,$6.99,$1.00,0.1252
+Beneful Incredibites Roasted Chicken Dog Food,Purina,$7.99,$6.99,$1.00,0.1252
+Beneful Incredibites Sirloin Dog Food,Purina,$7.99,$6.99,$1.00,0.1252
+Beneful Original Dry With Beef Dog Food,Purina,$7.99,$6.99,$1.00,0.1252
+Chipotle Raspberry Hot Sauce,Maui Pepper Co.,$7.99,$6.99,$1.00,0.1252
 Extra Classic Poutine,MS3Food - Like at the Restaurant,$7.99,$6.99,$1.00,0.1252
 Flex 2 Hybrid Blue Razors,Bic,$7.99,$6.99,$1.00,0.1252
 Grain Free Chicken Dog Food,Beneful,$7.99,$6.99,$1.00,0.1252
 Havarti 32% MF Cheese,Armstrong,$7.99,$6.99,$1.00,0.1252
 Marble Cheddar Cheese,Armstrong,$7.99,$6.99,$1.00,0.1252
+Chicken Souvlakis,Flamingo,$11.99,$10.49,$1.50,0.1251
+Chimichurri Chicken Brochette,Flamingo,$11.99,$10.49,$1.50,0.1251
 Grain Free Adult Lamb Dry Dog Food,Nature's Recipe,$15.99,$13.99,$2.00,0.1251
+1% Organic Milk,Lactantia,$5.69,$4.99,$0.70,0.1230
+2% Organic Milk,Lactantia,$5.69,$4.99,$0.70,0.1230
+Brown Basmati Rice,Dainty,$5.69,$4.99,$0.70,0.1230
 Men Extra Fresh Body Wash,Dove,$5.69,$4.99,$0.70,0.1230
+Acidulated Crispy Apples,Les croquantes,$3.99,$3.50,$0.49,0.1228
+Aromatic Crispy Apples,Les Croquantes,$3.99,$3.50,$0.49,0.1228
+Bite Sized Rounds Tortilla Chips,Tostitos,$3.99,$3.50,$0.49,0.1228
+Cheddar Marble and Raisin,G&G,$3.99,$3.50,$0.49,0.1228
+Crunchy Cheddar Jalapeno Cheezies,Cheetos,$3.99,$3.50,$0.49,0.1228
+Crunchy Cheezies,Cheetos,$3.99,$3.50,$0.49,0.1228
 Flamin' Hot Crunchies,Cheetos,$3.99,$3.50,$0.49,0.1228
 Honeycrisp Sweet Apple Cider,Tradition Collection,$3.99,$3.50,$0.49,0.1228
 Little Crispy Apples,Les Croquantes,$3.99,$3.50,$0.49,0.1228
 Mild Salsa Dip,Tostitos,$3.99,$3.50,$0.49,0.1228
 Milk Chocolate Hazelnut Cream Filled No Sugar Adde...,Valor,$3.99,$3.50,$0.49,0.1228
+Authentic Bologna,Lafleur,$2.54,$2.24,$0.30,0.1181
 Garlic Bologna,Olymel,$2.54,$2.24,$0.30,0.1181
+1% PurFiltre Organic Milk,Lactantia,$5.99,$5.29,$0.70,0.1169
+2% PurFiltre Organic Milk,Lactantia,$5.99,$5.29,$0.70,0.1169
+Chocolate Milk Protein Shake Plus 2% MF,Natrel,$5.99,$5.29,$0.70,0.1169
 Milk Protein Shake Plus 2% MF,Natrel,$5.99,$5.29,$0.70,0.1169
 Milk Protein Shake Plus 3.25% MF,Natrel,$5.99,$5.29,$0.70,0.1169
+Beggin' Strips Original Dog Treats,Purina,$4.29,$3.79,$0.50,0.1166
+Breakfest Potato Pancakes,McCain,$4.29,$3.79,$0.50,0.1166
+Chewy Chocolate Coconut Granola Bars,Nature's Path,$4.29,$3.79,$0.50,0.1166
 Love Crunch Dark Chocolate Macaroon Granola Bar,Natures Path,$4.29,$3.79,$0.50,0.1166
+Boneless Org Loin Filet Marin,DuBreton,$11.58,$10.24,$1.34,0.1157
+Boneless Provencale Loin Filet,DuBreton,$11.58,$10.24,$1.34,0.1157
+50 Pack Sweetener,Sugar In The Raw,$6.19,$5.49,$0.70,0.1131
+Beef Scalopini Rosette,Sterling Silver,$5.95,$5.28,$0.67,0.1126
+Apple Butter Turkey Cutlet,Pac,$6.94,$6.16,$0.78,0.1124
+Beef Swiss Roll,Sterling Silver,$6.94,$6.16,$0.78,0.1124
+Burrito Seasoning Mix,Old El Paso,$1.69,$1.50,$0.19,0.1124
+Chili Seasoning Mix,Old El Paso,$1.69,$1.50,$0.19,0.1124
+Cranberry Oeange Turkey Cutlet,Pac,$6.94,$6.16,$0.78,0.1124
 Fajita Mix Seasoning,Old El Paso,$1.69,$1.50,$0.19,0.1124
 Fajita Smart Fiesta Seasoning,Old El Paso,$1.69,$1.50,$0.19,0.1124
 Mild Chicken Taco Seasoning Mix,Old El Paso,$1.69,$1.50,$0.19,0.1124
 Mild Taco Seasoning Mix,Old El Paso,$1.69,$1.50,$0.19,0.1124
 Garlic Paste,Gia,$2.69,$2.39,$0.30,0.1115
+canola - soft Margarine,Nuvel,$4.49,$3.99,$0.50,0.1114
+Carrot Juice,Traditional Health,$4.49,$3.99,$0.50,0.1114
+Chunks Hot Banana Peppers,Bick's,$4.49,$3.99,$0.50,0.1114
+Coarse Iodized Sea Salt,Windsor,$4.49,$3.99,$0.50,0.1114
 Garden Medley Salad,Eat Smart,$4.49,$3.99,$0.50,0.1114
 Grape Health Juice,Tradition,$4.49,$3.99,$0.50,0.1114
 Green Tea,Tim Hortons,$4.49,$3.99,$0.50,0.1114
@@ -567,22 +1131,52 @@ Inspiration Fabric Softener,La Parisienne,$4.49,$3.99,$0.50,0.1114
 Lavender Cleaner,Pine-Sol,$4.49,$3.99,$0.50,0.1114
 Liquid Tonique Fabric Softener,La Parisienne,$4.49,$3.99,$0.50,0.1114
 Maple Dijon Vinaigrette,Maison Orphee,$4.49,$3.99,$0.50,0.1114
+2 Ply 126 Sheets Facial Tissue,Royale,$8.99,$7.99,$1.00,0.1112
+Bottles Beer,Heineken,$13.49,$11.99,$1.50,0.1112
+Breaded Popcorn Shrimp,BlueWater Seafoods,$8.99,$7.99,$1.00,0.1112
+Charcuterie Trio,Mastro,$8.99,$7.99,$1.00,0.1112
+Cheddar White Cheese,Ptit Quebec,$13.49,$11.99,$1.50,0.1112
+Chopped Garlic,Derlea,$8.99,$7.99,$1.00,0.1112
 Evil Bastard Hot Sauce,Hellfire,$17.99,$15.99,$2.00,0.1112
 Keg Beer,Heineken,$13.49,$11.99,$1.50,0.1112
 Mediterranean Charcuterie Trio,Mastro and San Daniele,$8.99,$7.99,$1.00,0.1112
 Lemon Love Tea,Peace Tea,$0.99,$0.88,$0.11,0.1111
 Gold Milk Chocolate Bar,Lindt,$9.19,$8.19,$1.00,0.1088
+14% m.f. Sour cream,Sealtest,$3.69,$3.29,$0.40,0.1084
+Applewood Bacon Smoked Mustard,Inglehoffer,$6.49,$5.79,$0.70,0.1079
+Aquarium Liquid Pump Hand Soap,Softsoap,$2.79,$2.49,$0.30,0.1075
+Bing Cherry,M'Lord,$5.59,$4.99,$0.60,0.1073
 Extra Virgin Olive Oil,Marques de Valdueza,$27.99,$24.99,$3.00,0.1072
 Maki Philanthrope Tx Sushi,Yuzu,$9.35,$8.35,$1.00,0.1070
+Blue Large Recycling Bags,Glad,$12.29,$10.99,$1.30,0.1058
 Forceflex Black Large Garbage Bags,Glad,$12.29,$10.99,$1.30,0.1058
+Baking Blend Brown Sugar,Truvia,$9.49,$8.49,$1.00,0.1054
+Apple Beer,Bud Light,$18.99,$16.99,$2.00,0.1053
+Assorted Beer,BDM,$18.99,$16.99,$2.00,0.1053
+Beer,Belgian Moon,$18.99,$16.99,$2.00,0.1053
+Bottles Beer,Molson Ultra,$18.99,$16.99,$2.00,0.1053
+Bottles Pale Ale,Alexander Keith's,$18.99,$16.99,$2.00,0.1053
+Cans Beer,Michelob Ultra,$18.99,$16.99,$2.00,0.1053
+Cans Beer,Molson Ultra,$18.99,$16.99,$2.00,0.1053
+Cheese PD Lasagna,C'est Pret,$6.65,$5.95,$0.70,0.1053
 Lime Cans Beer,Bud Light,$18.99,$16.99,$2.00,0.1053
 Matante Cans Beer,Archibald,$18.99,$16.99,$2.00,0.1053
 Mix Beer,Archibald,$18.99,$16.99,$2.00,0.1053
 Mix Beer,Archibald,$18.99,$16.99,$2.00,0.1053
 Mix Joufflue Beer Beer,Mix Joufflue Beer,$18.99,$16.99,$2.00,0.1053
+Dark Chocolate Coffee Beans,JohnVince,$2.00,$1.79,$0.21,0.1050
 Le Marechal Cheese,Emmi,$12.04,$10.78,$1.26,0.1047
 Le Marechal Raw Milk Cheese,Emmi,$12.04,$10.78,$1.26,0.1047
 Louis d'Or Cheese,Plaisirs Gourmets,$12.04,$10.78,$1.26,0.1047
+Baja Blast Soft Drink,Mountain Dew,$6.69,$5.99,$0.70,0.1046
+Berry Flavour Soft Drink,Pepsi,$6.69,$5.99,$0.70,0.1046
+Brisk Lemon & Lime Iced Tea,Lipton,$6.69,$5.99,$0.70,0.1046
+Caffeine Free Soft Drink,Pepsi,$6.69,$5.99,$0.70,0.1046
+Cans Soft Drink,Pepsi,$6.69,$5.99,$0.70,0.1046
+Club Soda Soft Drink,Schweppes,$6.69,$5.99,$0.70,0.1046
+Cranberry and Raspberry Soft Drink,Schweppes,$6.69,$5.99,$0.70,0.1046
+Cranberry Juice Cocktail,Ocean Spray,$6.69,$5.99,$0.70,0.1046
+Cream Soda Soft Drink,Crush,$6.69,$5.99,$0.70,0.1046
 Dew Mocracy Winner Soda,Mountain Dew,$6.69,$5.99,$0.70,0.1046
 Diet Caffeine Free Soft Drink,Pepsi,$6.69,$5.99,$0.70,0.1046
 Diet Orange Soft Drink,Crush,$6.69,$5.99,$0.70,0.1046
@@ -595,10 +1189,34 @@ Ginger Ale Soft Drink,Schweppes,$6.69,$5.99,$0.70,0.1046
 Lemonade,Brisk,$6.69,$5.99,$0.70,0.1046
 Mango Flavour Soft Drink,Pepsi,$6.69,$5.99,$0.70,0.1046
 max - diet Soft drink,Pepsi,$6.69,$5.99,$0.70,0.1046
+10% m.f. Ultra'Cream Coffee cream,Quï¿½bon,$4.79,$4.29,$0.50,0.1044
+24% m.f. Ultra'Cream Whipped cream,Quï¿½bon,$4.79,$4.29,$0.50,0.1044
+35% Country Ultra Cream,Quebon,$4.79,$4.29,$0.50,0.1044
+apple - spreadable Butter,Les Caprices D'Antan,$4.79,$4.29,$0.50,0.1044
+Butternut Squash Gluten Free Soup,Imagine,$4.79,$4.29,$0.50,0.1044
+Chicken Bone Broth,Imagine,$4.79,$4.29,$0.50,0.1044
+Custard Cream Ultra Cream,Quebon,$4.79,$4.29,$0.50,0.1044
 Extra Virgin Olive Oil,Planeta,$23.99,$21.49,$2.50,0.1042
 Mix Connaisseur,Brasseurs De Monde,$23.99,$21.49,$2.50,0.1042
+Blueberry Oat Protein Bar,Vega,$38.99,$34.99,$4.00,0.1026
+Assorted Jelly Beans,Candy Guy,$0.88,$0.79,$0.09,0.1023
 Hot Canitas Chorizo,Espuna,$1.99,$1.79,$0.20,0.1005
 Milk Chocolate Cashews,John Vince,$1.99,$1.79,$0.20,0.1005
+Almond Butter Chocolate Protein Bars,Epic Provisions,$2.99,$2.69,$0.30,0.1003
+Cranberry Lemon Bar,Omax,$3.99,$3.59,$0.40,0.1003
+4 Fruits Jam,St-Dalfour,$4.99,$4.49,$0.50,0.1002
+Apricot Granola Bites,Omax,$4.99,$4.49,$0.50,0.1002
+Apricot Jam,St-Dalfour,$4.99,$4.49,$0.50,0.1002
+Basil Pesto,Mikes,$4.99,$4.49,$0.50,0.1002
+Black Cherry Spread,St Dalfour,$4.99,$4.49,$0.50,0.1002
+Black Currant Jam,St-Dalfour,$4.99,$4.49,$0.50,0.1002
+Chestnut Spread,St-Dalfour,$4.99,$4.49,$0.50,0.1002
+Choco Latte Cashew Milk,Dose,$4.99,$4.49,$0.50,0.1002
+Classic Portions Cheese,Bergeron,$4.99,$4.49,$0.50,0.1002
+Combo Old White Cheese & Nut,Black Diamond,$4.99,$4.49,$0.50,0.1002
+Cotton Swabs,Q-Tips,$4.99,$4.49,$0.50,0.1002
+Cranberry Blueberry Jam,St Dalfour,$4.99,$4.49,$0.50,0.1002
+Dark Original Chocolate Drops,Chocolats Favoris,$4.99,$4.49,$0.50,0.1002
 Dulce de Leche Chocolate Drops,Chocolats Favoris,$4.99,$4.49,$0.50,0.1002
 Easy Squeeze Ketchup,Heinz,$4.99,$4.49,$0.50,0.1002
 Ginger Orange Fruit Spread,St Dalfour,$4.99,$4.49,$0.50,0.1002
@@ -610,6 +1228,11 @@ Light Strawberry Jam,Double Fruit,$4.99,$4.49,$0.50,0.1002
 Low Sodium Ketchup,Heinz,$4.99,$4.49,$0.50,0.1002
 Milk Original Chocolate Drops,Chocolats Favoris,$4.99,$4.49,$0.50,0.1002
 Mini Eggs T10 Chocolate,Ferrero,$4.99,$4.49,$0.50,0.1002
+Breaded Haddock Bites,High Liner,$9.99,$8.99,$1.00,0.1001
+Cheddar Marble Block Cheese,Riviera,$6.99,$6.29,$0.70,0.1001
+Cold Smoked Atlantic Salmon,Sushi maison,$9.99,$8.99,$1.00,0.1001
+Crisp Breeze 2PK Scented Oil Refill,Airwick,$9.99,$8.99,$1.00,0.1001
+Cuisine Cooking Sheet,Cookina,$9.99,$8.99,$1.00,0.1001
 Double Smoked Bacon,Schneiders,$9.99,$8.99,$1.00,0.1001
 Fiery Fool Hot Sauce,Hellfire,$19.99,$17.99,$2.00,0.1001
 Flaming Habanero Hot Sauce,Danny Cash's,$9.99,$8.99,$1.00,0.1001
@@ -623,11 +1246,24 @@ Lemon Iced Tea,Nestea,$6.99,$6.29,$0.70,0.1001
 Maple Bacon,Schneiders,$9.99,$8.99,$1.00,0.1001
 IPA La Pinte Beer,Brasseurs du Monde,$4.99,$4.50,$0.49,0.0982
 Lemon Lime Sparkling Water,Compliments,$4.99,$4.50,$0.49,0.0982
+All Dressed Party Mix,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+BBQ Ringolos,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+Cheddar Bacon Cheese Sticks,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+Cheese Sticks,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+Cheesy Party Mix,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+Cruncheez,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
 Habanero Blue Cheese Sticks,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
 Jalapeno Popper Cheese Sticks,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
 Ketchup Ringolos,Humpty Dumpty,$3.69,$3.33,$0.36,0.0976
+Can Original Beer,Belle Gueule,$2.49,$2.25,$0.24,0.0964
 Dentalife Chews Medium Dog Dog Treats,Purina,$4.19,$3.79,$0.40,0.0955
+Alfredo Pasta Sauce,O'Sole Mio,$7.49,$6.79,$0.70,0.0935
+Basil Pesto Pasta Sauce,O'Sole Mio,$7.49,$6.79,$0.70,0.0935
 Marinara Pasta Sauce,O' Sole Mio,$7.49,$6.79,$0.70,0.0935
+Assorted Jells Candy,Mike & Ike,$1.09,$0.99,$0.10,0.0917
+BBQ Sauce,Plaisirs Gastronomiques,$2.19,$1.99,$0.20,0.0913
+Caramel Spread,Grenache,$2.19,$1.99,$0.20,0.0913
+Cool Blue Raspberry Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
 Frost Arctic Blitz Beverage,Gatorade,$2.19,$1.99,$0.20,0.0913
 Frost Glacier Freeze Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
 Frost Summit Storm Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
@@ -636,6 +1272,11 @@ G2 Grape Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
 G2 Orange Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
 Glacier Cherry Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
 Lemon Lime Sports Drink,Gatorade,$2.19,$1.99,$0.20,0.0913
+Apple Grape Juice,Compliments,$3.29,$2.99,$0.30,0.0912
+Apple Juice,Compliments,$3.29,$2.99,$0.30,0.0912
+Avocado Cilantro & Lime Triscuit,Christie,$3.29,$2.99,$0.30,0.0912
+Blueberry Oat Protein Bar,Vega,$3.29,$2.99,$0.30,0.0912
+Canada Corn Starch,Fleischmann's,$3.29,$2.99,$0.30,0.0912
 Doubleshot Energy & Coffee Mocha Beverage,Starbucks,$3.29,$2.99,$0.30,0.0912
 Doubleshot Energy & Coffee Vanilla Beverage,Starbucks,$3.29,$2.99,$0.30,0.0912
 Four Cheese & Herb Triscuit,Christie,$3.29,$2.99,$0.30,0.0912
@@ -643,6 +1284,17 @@ Fruit Punch Drink,Compliments,$3.29,$2.99,$0.30,0.0912
 Good Thins Beet Balsamic Vinegar Sea Salt Crackers,Christie,$3.29,$2.99,$0.30,0.0912
 Grape Juice,Compliments,$3.29,$2.99,$0.30,0.0912
 Lemon Iced Tea Cocktail,Compliments,$3.29,$2.99,$0.30,0.0912
+All Beef Salami,Lesters,$5.49,$4.99,$0.50,0.0911
+Boletus Dried Mushrooms,Morille Quï¿½bec,$5.49,$4.99,$0.50,0.0911
+Broccoli Veggie Bites,Yves Veggie Cuisine,$5.49,$4.99,$0.50,0.0911
+Caesar With Chicken And Bacon Salad,Bonduelle,$5.49,$4.99,$0.50,0.0911
+Chex Honey Nut Gluten Free Cereal,General Mills,$5.49,$4.99,$0.50,0.0911
+Classic Soft Drink,Coca-Cola,$5.49,$4.99,$0.50,0.0911
+Cobb With Turkey And Bacon Salad,Bonduelle,$5.49,$4.99,$0.50,0.0911
+Coffee Substitute,Caf - Lib,$5.49,$4.99,$0.50,0.0911
+Couscous,Tipiak,$5.49,$4.99,$0.50,0.0911
+Crab Dried Mushrooms,Morille Quï¿½bec,$5.49,$4.99,$0.50,0.0911
+Dark Roast Mellow Coffee,Caf - Lib,$5.49,$4.99,$0.50,0.0911
 Diet Soft Drink,Coca-Cola,$5.49,$4.99,$0.50,0.0911
 Dried Mushroom Mix,Morille Quebec,$5.49,$4.99,$0.50,0.0911
 Dried Trumpets Mushroom,Morille Quebec,$5.49,$4.99,$0.50,0.0911
@@ -651,19 +1303,45 @@ Ginger Ale Soft Drink,Canada Dry,$5.49,$4.99,$0.50,0.0911
 Greek Inspired With Chicken Salad,Bonduelle,$5.49,$4.99,$0.50,0.0911
 Kale & Quinoa Veggie Bites,Yves,$5.49,$4.99,$0.50,0.0911
 Mock Sliced Chicken,Gaspesien,$5.49,$4.99,$0.50,0.0911
+All Natural Peanut Butter,Kraft,$7.69,$6.99,$0.70,0.0910
+All Natural With Sea Salt Peanut Butter,Kraft,$7.69,$6.99,$0.70,0.0910
+Basmati Rice,Tilda,$10.99,$9.99,$1.00,0.0910
+Beer,Cheval Blanc,$10.99,$9.99,$1.00,0.0910
+Beer,Harp,$10.99,$9.99,$1.00,0.0910
+Beer,Hop House,$10.99,$9.99,$1.00,0.0910
+Blemish Fighting Ice Cleanser,Biore,$7.69,$6.99,$0.70,0.0910
+Carpet Stain Remover,Spot Shot,$7.69,$6.99,$0.70,0.0910
+Compostable Garbage Bags,Glad,$10.99,$9.99,$1.00,0.0910
+Cream Ale Beer,Kilkenny,$10.99,$9.99,$1.00,0.0910
+Crunchy Peanut Butter,Kraft,$7.69,$6.99,$0.70,0.0910
+Deep Cleansing Pore Strips,Biore,$7.69,$6.99,$0.70,0.0910
 Extra Creamy Peanut Butter,Kraft,$7.69,$6.99,$0.70,0.0910
 Feta Cubes Cheese,Saputo,$16.49,$14.99,$1.50,0.0910
 Fondue Cheese,Kaiser,$10.99,$9.99,$1.00,0.0910
 Mango Frozen Fruit,Compliments,$10.99,$9.99,$1.00,0.0910
+3 Peppers Sauce,Canton,$3.29,$3.00,$0.29,0.0881
+Bearnaise Fondue Sauce,Canton,$3.29,$3.00,$0.29,0.0881
+Bourguignonne Sauce,Canton,$3.29,$3.00,$0.29,0.0881
+Cans Beer,Molson Canadian,$3.29,$3.00,$0.29,0.0881
+Chinese Fondue Sauce,Canton,$3.29,$3.00,$0.29,0.0881
+Curry Fondue Sauce,Canton,$3.29,$3.00,$0.29,0.0881
 Dijonnaise Sauce,Canton,$3.29,$3.00,$0.29,0.0881
 Fondue Sriracha Sauce,Canton,$3.29,$3.00,$0.29,0.0881
 Garlic Lover Fondue Sauce,Canton,$3.29,$3.00,$0.29,0.0881
 Honey And Garlic Fondue sauce,Canton,$3.29,$3.00,$0.29,0.0881
+1% Lactose Free Milk,Lactantia,$5.79,$5.29,$0.50,0.0864
 Fine Sea Salt,La Baleine,$5.79,$5.29,$0.50,0.0864
 Homogenized Lactose Free Milk,Lactantia,$5.79,$5.29,$0.50,0.0864
 Lactaid 2% Milk,Lactantia,$5.79,$5.29,$0.50,0.0864
 Maple Chipotle New Flavor Pork Tenderloin,RTC,$8.19,$7.49,$0.70,0.0855
 Ice Intense 4 Pack Gum,Dentyne,$3.59,$3.29,$0.30,0.0836
+Amazing Mango Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+Banana Strawberry Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+Berry Boost Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+Blue Goodness Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+C-Boost Fruit Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+Choco Banana Protein  Non-GMO Cashew Milk,Dose,$5.99,$5.49,$0.50,0.0835
+Country Style Barley Salad,Isabelle Huot, Docteure en nutrition,$5.99,$5.49,$0.50,0.0835
 Denstastix Small 15pc Dog Treat,Pedigree,$5.99,$5.49,$0.50,0.0835
 Extra Hold Hairspray,Tresemme,$5.99,$5.49,$0.50,0.0835
 Green Goodness Smoothie,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
@@ -671,10 +1349,24 @@ Harissa Red Pepper Sauce,Mina,$5.99,$5.49,$0.50,0.0835
 Marble Cheddar Cheese,Armstrong,$5.99,$5.49,$0.50,0.0835
 Mild Italian Sausage,Roma,$5.99,$5.49,$0.50,0.0835
 Mocha Cappucino Coffee,Bolthouse Farms,$5.99,$5.49,$0.50,0.0835
+5.5% Beer,Ephemere,$11.99,$10.99,$1.00,0.0834
+a tout Le Monde Beer,Unibroue,$11.99,$10.99,$1.00,0.0834
+Autre Chose Peach Beer,Unibroue,$11.99,$10.99,$1.00,0.0834
+Beer,Belgian Moon,$11.99,$10.99,$1.00,0.0834
+Beer,Blanche De Chambly,$11.99,$10.99,$1.00,0.0834
+Blonde de Chambly,Unibroue,$11.99,$10.99,$1.00,0.0834
+Bottle Beer,Raftman,$11.99,$10.99,$1.00,0.0834
 Loxley Cans Beer,BDM,$11.99,$10.99,$1.00,0.0834
 Milk Chocolate Chipits,Hershey's,$11.99,$10.99,$1.00,0.0834
 Fermented Vegan Unflavoured Proteins,Genuine Health,$48.99,$44.99,$4.00,0.0816
 Fermented Vegan Vanilla Proteins,Genuine Health,$48.99,$44.99,$4.00,0.0816
+Cans 5.2% Beer,Labatt 50,$18.49,$16.99,$1.50,0.0811
+Black Danette Chocolate,Danone,$2.99,$2.75,$0.24,0.0803
+Blueberry Ready To Eat 4 Pack Gelatin Dessert,Jell-O,$2.99,$2.75,$0.24,0.0803
+caramel Meteo cookies,Dare,$2.99,$2.75,$0.24,0.0803
+Chocolate Danette Dairy Dessert,Danone,$2.99,$2.75,$0.24,0.0803
+Chocolate Refrigerated Ready To Eat Pudding,Jell-O,$2.99,$2.75,$0.24,0.0803
+Creme Brulee Danette Yogurt,Danone,$2.99,$2.75,$0.24,0.0803
 Dulce de Leche Refrigerated Ready To Eat Pudding,Jell-O,$2.99,$2.75,$0.24,0.0803
 fingers Normandie cookies,Dare,$2.99,$2.75,$0.24,0.0803
 graham Normandie cookies,Dare,$2.99,$2.75,$0.24,0.0803
@@ -687,9 +1379,17 @@ Maxi Fruits Strawberry Cookies,Dare,$2.99,$2.75,$0.24,0.0803
 Meteo Caramel Cookies,Dare,$2.99,$2.75,$0.24,0.0803
 Meteo Strawberry Cookies,Dare,$2.99,$2.75,$0.24,0.0803
 Extra Virgin Olive Oil,Emma,$24.99,$22.99,$2.00,0.0800
+Bologna,Olymel,$6.29,$5.79,$0.50,0.0795
 High Endurance Pure Sport Deodorant,Old Spice,$3.79,$3.49,$0.30,0.0792
+Chorizo Dry Sausage,Le Sauciflard,$5.69,$5.24,$0.45,0.0791
 Fitness Mix,Johnvince Foods,$1.40,$1.29,$0.11,0.0786
 Mild Marble Cheddar Cheese,Compliments,$8.99,$8.29,$0.70,0.0779
+4.5% Beet Moretti,Molson,$12.99,$11.99,$1.00,0.0770
+4.7% alc/vol Beer,New Castle,$12.99,$11.99,$1.00,0.0770
+Bottles Lager,Dos Equis,$12.99,$11.99,$1.00,0.0770
+Cans Beer 5%,Heineken,$12.99,$11.99,$1.00,0.0770
+Chicken Egg Rolls,Wong Wing,$6.49,$5.99,$0.50,0.0770
+Chicken Spring Rolls,Wong Wing,$6.49,$5.99,$0.50,0.0770
 Dishwasher Tablets,La Parisienne,$12.99,$11.99,$1.00,0.0770
 Fancy Molasses,Grandma,$6.49,$5.99,$0.50,0.0770
 Fried Rice,Wong Wing,$6.49,$5.99,$0.50,0.0770
@@ -697,18 +1397,24 @@ High Efficiency Original Fresh 64 Use Laundry Dete...,Gain,$12.99,$11.99,$1.00,0
 Lager Beer 4.5%,DOS EQUIS,$12.99,$11.99,$1.00,0.0770
 Mini Spring Roll Variety Pack,Wong Wing,$6.49,$5.99,$0.50,0.0770
 Moisture Rich Shampoo,Tresemme,$6.49,$5.99,$0.50,0.0770
+Basmati Rice,Minute Rice,$3.99,$3.69,$0.30,0.0752
+Big & Flaky Dinner Rolls,Pillsbury,$2.69,$2.49,$0.20,0.0743
 Jumbo Crescent Rolls,Pillsbury,$2.69,$2.49,$0.20,0.0743
 Le Voyageur Cheese,Le P'Tit Train Du Nord,$9.70,$8.98,$0.72,0.0742
 In Mustard Sardines,Brunswick,$1.79,$1.66,$0.13,0.0726
 Lemon Sauce Sardines,Brunswick,$1.79,$1.66,$0.13,0.0726
 Haddock Fillets,High Liner,$9.69,$8.99,$0.70,0.0722
+Black Truffle Oil,Favuzzi,$13.99,$12.99,$1.00,0.0715
+Cooktop Cleaner,Cerama Bryte,$6.99,$6.49,$0.50,0.0715
 Italiana Vegan Sausage,Gusta,$6.99,$6.49,$0.50,0.0715
 La Fondue Au Village Snack Fondue,Plaisirs Gourmet,$6.99,$6.49,$0.50,0.0715
+Cleaning Double Strength Vinegar,Allen's,$4.29,$3.99,$0.30,0.0699
 Feta Cheese,Compliments,$4.29,$3.99,$0.30,0.0699
 Feta Light Cheese,Compliments,$4.29,$3.99,$0.30,0.0699
 Imported From France Fourme D'Ambert,Cantorel,$7.72,$7.18,$0.54,0.0699
 Jasmine Rice,Dainty,$4.29,$3.99,$0.30,0.0699
 Marinated Pickled Beets,Habitant,$4.29,$3.99,$0.30,0.0699
+Balsamic Vinagar,Laura,$21.49,$19.99,$1.50,0.0698
 Dry Roasted Edamame,Jonhvince Foods,$1.49,$1.39,$0.10,0.0671
 Milk Chocolate Nuts Madadamia,John Vince,$2.99,$2.79,$0.20,0.0669
 Flex 3 Hybrid Black Razors,Bic,$7.49,$6.99,$0.50,0.0668
@@ -718,14 +1424,24 @@ Low Sodium Soya Sauce Dispenser,Kikkoman,$4.49,$4.19,$0.30,0.0668
 Gluten Free Adult Chicken Dry Dog Food,Nature's Recipe,$14.99,$13.99,$1.00,0.0667
 Mini Keg Beer,Heineken,$29.99,$27.99,$2.00,0.0667
 Market's Own Dark Filter Coffee,Brulerie Mont-Royal,$18.19,$16.99,$1.20,0.0660
+Chicken & Sauce Egg Roll,O Mets Chinois,$4.59,$4.29,$0.30,0.0654
 Dijon Squeezable Mustard,French's,$3.19,$2.99,$0.20,0.0627
 Foamy Regular Shave Cream,Gillette,$3.19,$2.99,$0.20,0.0627
 Honey Dijon Mustard,French's,$3.19,$2.99,$0.20,0.0627
+Brunch Vegan Sausage,Gusta,$7.99,$7.49,$0.50,0.0626
 In Olive Oil 2PK Tuna,Rio Mare,$7.99,$7.49,$0.50,0.0626
 Kebab Shawarma Seitan Loaf,Gusta,$7.99,$7.49,$0.50,0.0626
 Leapin Lemurs Organic Gluten Free Cereal,Nature's Path,$4.79,$4.49,$0.30,0.0626
+Chocolate Truffle Gluten Free Cake,David Lumbroso,$15.99,$14.99,$1.00,0.0625
 Fondue 3 Cheese Cheese,Island,$15.99,$14.99,$1.00,0.0625
+Boil in a Bag Precooked Long Grain Rice,Minute Rice,$4.99,$4.69,$0.30,0.0601
 Long Grain Rice,Minute Rice,$4.99,$4.69,$0.30,0.0601
+Black Cherry Citrus Soda Water,Fresca,$6.69,$6.29,$0.40,0.0598
+Caffeine Free Soft Drink,Coca-Cola,$6.69,$6.29,$0.40,0.0598
+Classic Soft Drink,Coca-Cola,$6.69,$6.29,$0.40,0.0598
+Club Soda,Canada Dry,$6.69,$6.29,$0.40,0.0598
+Club Soda Lemon Lime Soft Drink,Canada Dry,$6.69,$6.29,$0.40,0.0598
+Club Soda Pomegranate Cherry Soft Drink,Canada Dry,$6.69,$6.29,$0.40,0.0598
 Diet Soft Drink,Coca-Cola,$6.69,$6.29,$0.40,0.0598
 Fridge Mate Sugar Free Soda,Fresca,$6.69,$6.29,$0.40,0.0598
 Fridgemate Cool Iced Tea,Nestea,$6.69,$6.29,$0.40,0.0598
@@ -735,10 +1451,42 @@ Ginger Ale Diet Soft Drink,Canada Dry,$6.69,$6.29,$0.40,0.0598
 Grapefruit Citrus Soda Water,Fresca,$6.69,$6.29,$0.40,0.0598
 Life Soft Drink,Coca-Cola,$6.69,$6.29,$0.40,0.0598
 Lentil & Walnut Burger,Vegetarian Gourmet,$8.49,$7.99,$0.50,0.0589
+Angel Food Cake Mix,Betty Crocker,$3.49,$3.29,$0.20,0.0573
+Classic Ceasar Croutons,Fresh Gourmet,$3.49,$3.29,$0.20,0.0573
+Confetti Cake Mix,Betty Crocker,$3.49,$3.29,$0.20,0.0573
 India Session Ale Des Chutes Can 3.7% ALC/Vol Arti...,Boreale,$3.49,$3.29,$0.20,0.0573
+1% Lactose Free Milk,Lactantia,$5.29,$4.99,$0.30,0.0567
+2% Lactose Free Milk,Lactantia,$5.29,$4.99,$0.30,0.0567
 Lactose Free 3.25% Homog MIlk,Lactantia,$5.29,$4.99,$0.30,0.0567
 Lactose Free Skim Milk,Lactantia,$5.29,$4.99,$0.30,0.0567
 Montreal Maple Bagel,Chef Frankie,$5.29,$4.99,$0.30,0.0567
+30e Anniversary Beer,Boreale,$17.99,$16.99,$1.00,0.0556
+5.5% Alcohol Beer,Molson Dry,$17.99,$16.99,$1.00,0.0556
+A Tout le Monde 4.5% Alcohol Beer,Unibroue,$17.99,$16.99,$1.00,0.0556
+Ale Cans Premium Quality 5% alc/vol Beer,O'Keefe,$17.99,$16.99,$1.00,0.0556
+Beer,Molson Canadian,$17.99,$16.99,$1.00,0.0556
+Beer,Rickards,$17.99,$16.99,$1.00,0.0556
+Beer Collection,Unibroue,$17.99,$16.99,$1.00,0.0556
+Blanche Beer,Boreale,$17.99,$16.99,$1.00,0.0556
+Blonde 5.0% Alcohol Beer,Rickard's,$17.99,$16.99,$1.00,0.0556
+Blonde Beer,Boreale,$17.99,$16.99,$1.00,0.0556
+Bottle Beer,Miller Lite,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Budweiser,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Bud Light,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Coors Light,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Molson Canadian,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Molson Export,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Molson Dry,$17.99,$16.99,$1.00,0.0556
+Bottles Beer,Blanche De Chambly,$17.99,$16.99,$1.00,0.0556
+Bottles Blue Beer,Labatt,$17.99,$16.99,$1.00,0.0556
+Budweiser Beer,Labatt,$17.99,$16.99,$1.00,0.0556
+Can 4% Beer,Bud Light,$17.99,$16.99,$1.00,0.0556
+Cans Beer,Rickard's Red,$17.99,$16.99,$1.00,0.0556
+Cans Beer,Export,$17.99,$16.99,$1.00,0.0556
+Cans Beer,Coors Light,$17.99,$16.99,$1.00,0.0556
+Cans Beer,Miller Lite,$17.99,$16.99,$1.00,0.0556
+Cans Blue Beer,Labatt,$17.99,$16.99,$1.00,0.0556
+Colombian Medium Ground Coffee,Van Houtte,$17.99,$16.99,$1.00,0.0556
 Extra Virgin Rich Taste Olive Oil,Bertolli,$17.99,$16.99,$1.00,0.0556
 FMR Selections Beer,Unibroue,$17.99,$16.99,$1.00,0.0556
 French Roast Dark Ground Coffee,Van Houtte,$17.99,$16.99,$1.00,0.0556
@@ -748,16 +1496,27 @@ Houseblend Original Medium Ground Coffee,Van Houtte,$17.99,$16.99,$1.00,0.0556
 IPA Beer,BOREALE,$17.99,$16.99,$1.00,0.0556
 Mellow Mocha Ground Coffee,Van Houtte,$17.99,$16.99,$1.00,0.0556
 Mix Beer,Boreale,$17.99,$16.99,$1.00,0.0556
+Belvita Oatmeal Crunch Cookies,Christie,$3.69,$3.49,$0.20,0.0542
 Lemon Aerosol Cleaner,Pledge,$7.39,$6.99,$0.40,0.0541
+Cans Duo 5% Beer,Molson Export,$37.99,$35.99,$2.00,0.0526
 Duo Beer,Molson Canadian,$37.99,$35.99,$2.00,0.0526
 Lager 5.5% Beer,MOLSON DRY,$37.99,$35.99,$2.00,0.0526
+5 Minutes Superfries,McCain,$3.99,$3.79,$0.20,0.0501
+Broche Blueberry Ice Cream Brioche,La Chagnon,$9.99,$9.49,$0.50,0.0501
+Carmel Fudge Ice Cream,La Chagnon,$9.99,$9.49,$0.50,0.0501
+Coconut Ice Cream Log,La Chagnon,$9.99,$9.49,$0.50,0.0501
 Garlic Pepper Crispy Onion,Fresh Gourmet,$3.99,$3.79,$0.20,0.0501
 Green Tea,King Cole,$3.99,$3.79,$0.20,0.0501
 Honey Nut Cereal,Cheerios,$9.99,$9.49,$0.50,0.0501
 Light Salt Tortilla Strip,Fresh Gourmet,$3.99,$3.79,$0.20,0.0501
+Crab Meat,Crab Meat Of St-Laurent,$19.99,$18.99,$1.00,0.0500
+Cherry Red Organic Tomatoes,Savoura,$3.01,$2.86,$0.15,0.0498
 Ketchup Popcorn Seasoning,Club House,$4.19,$3.99,$0.20,0.0477
 Liquid Seasoning,Maggi,$4.49,$4.29,$0.20,0.0445
+Calabrese Hot Salami,Mastro,$7.04,$6.74,$0.30,0.0426
+Carnation Rich Hot Chocolate,Nestle,$4.69,$4.49,$0.20,0.0426
 Indulgence Mix,Johnvince Foods,$2.49,$2.39,$0.10,0.0402
+Berbere Seasoning Blend,Knorr,$4.99,$4.79,$0.20,0.0401
 Garam Masala Seasoning Blend,Knorr,$4.99,$4.79,$0.20,0.0401
 Harissa Seasoning Blend,Knorr,$4.99,$4.79,$0.20,0.0401
 Korean BBQ Seasoning,Knorr,$4.99,$4.79,$0.20,0.0401
@@ -769,6 +1528,11 @@ Excite Body Wash,Axe,$5.19,$4.99,$0.20,0.0385
 Family Size Antipasto Quattro,Marcangelo,$12.99,$12.49,$0.50,0.0385
 Family Size Prosciutto,Marcangelo,$12.99,$12.49,$0.50,0.0385
 Fresh Air Scent Dryer Sheets,Fleecy,$8.29,$7.99,$0.30,0.0362
+Breaded Coconut Shrimp,Sensations,$9.29,$8.99,$0.30,0.0323
+Blanche 5% Beer,Cheval Blanc,$17.49,$16.99,$0.50,0.0286
+Blonde Beer,Belle Gueule,$17.49,$16.99,$0.50,0.0286
+Bottles Beer,Moosehead,$17.49,$16.99,$0.50,0.0286
+Cans Beer,Moose Light,$17.49,$16.99,$0.50,0.0286
 extra pale ale Beer,Griffon,$17.49,$16.99,$0.50,0.0286
 Grapefruit Radler,Moosehead,$17.49,$16.99,$0.50,0.0286
 Houblon 6.2% Beer,Belle Gueule,$17.49,$16.99,$0.50,0.0286
@@ -782,4 +1546,5 @@ italian style Hot dog rolls,Villaggio,$3.69,$3.59,$0.10,0.0271
 italian style Villagio hamburger buns,Pom,$3.69,$3.59,$0.10,0.0271
 Liquid HEC Newborn 32 Use Laundry Detergent,Ivory Snow,$11.29,$10.99,$0.30,0.0266
 Double Chocolate Buns,La Petite Bretonne,$3.79,$3.69,$0.10,0.0264
+Carrot Mini Muffins,FGF Brand,$3.89,$3.79,$0.10,0.0257
 France Red Cabernet Sauvignon Wine,La Vie est Belle!,$13.79,$13.69,$0.10,0.0073
