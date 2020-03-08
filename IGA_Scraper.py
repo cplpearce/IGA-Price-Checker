@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as bs
 from operator import itemgetter
 import requests
 import colorama
+import math
 import re
 
 # init color console
@@ -23,7 +24,7 @@ soup = bs(pagesHtmlDocument, "html.parser")
 navigationPages = soup.find("ul", "nav nav--block pagination")
 regEx = r"page=(.+?)&"
 totalItems = int(re.findall(regEx, str(navigationPages))[-1]) * 20
-pagesTotal = round(totalItems / 1000)
+pagesTotal = math.ceil(totalItems / 1000)
 
 # # #   C R E A T E   U R L S   # # #
 
@@ -50,7 +51,6 @@ for url in urls:
             productPrice = productGridItem.find("span", "price-amount")
             productPrice = productPrice.text[1:]
             productCategory = productGridItem.find("div", "item-product__brand push--top")
-            productCategory.text if productCategory.text == None else "Misc"
             if productCategory.text != None:  productCategory = productCategory.text.strip()
             else:
                 productCategory = "Misc"
@@ -63,8 +63,8 @@ for url in urls:
             productSaleRatio = float(productDiscount) / float(productPrice)
             productSaleRatio = "{:2.4f}".format(productSaleRatio)
             productMetadataGroup = [
-                productName,
-                productCategory,
+                productName.replace(",","-"),
+                productCategory.replace(",","-"),
                 productPrice,
                 productSalePrice,
                 productDiscount,
