@@ -33,6 +33,8 @@ for p in range(pagesTotal):
 
 # # #   P A R S E   U R L S   # # #
 
+itemCatalog = []
+
 for url in urls:
     
     print("Working on URL:\n {}...".format(url))
@@ -41,7 +43,6 @@ for url in urls:
     htmlDocument = productsScrape.content
     soup = bs(htmlDocument, "html.parser")
 
-    itemCatalog = []
     for productGridItem in soup.find_all("div", "item-product__content push--top"):
         try: 
             productSalePrice = productGridItem.find("span", "price text--strong")
