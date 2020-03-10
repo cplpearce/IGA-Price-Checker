@@ -1,13 +1,12 @@
-from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style, init
 from bs4 import BeautifulSoup as bs
 from operator import itemgetter
 import requests
-import colorama
 import math
 import re
 
-# init color console
-colorama.init()
+# init color console from colorama
+init()
 
 # # #   M A K E   C S V   # # #
 
@@ -17,8 +16,8 @@ with open("igaSalesExport.csv", "w") as csv:
 
 # # #   G E T   P A G E S   # # #
 
-urlPages = "https://www.iga.net/en/online_grocery/browse/in-promotion"
-pagesScrape = requests.get(urlPages)
+urlPageIndex = "https://www.iga.net/en/online_grocery/browse/in-promotion"
+pagesScrape = requests.get(urlPageIndex)
 pagesHtmlDocument = pagesScrape.content
 soup = bs(pagesHtmlDocument, "html.parser")
 navigationPages = soup.find("ul", "nav nav--block pagination")
@@ -94,6 +93,8 @@ with open("igaSalesExport.csv", "a") as csv:
             )
         )
         
+# # #   W R I T E   O U T   T O   C O N S O L E   # # #
+
 for product in itemCatalog:
     print("{}Item Name: {}{}\n{}Item Category/Brand: {}{}\nRegular Price: ${}\nSale Price: ${}\n{}Total Sale Discount: ${}{}\n".format(
         Fore.CYAN,
