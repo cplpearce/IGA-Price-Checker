@@ -1,4 +1,3 @@
-from colorama import Fore, Back, Style
 from bs4 import BeautifulSoup as bs
 from operator import itemgetter
 from selenium import webdriver
@@ -75,7 +74,7 @@ with open(cv_name, "w") as csv:
 
 # # #   G E T   P A G E S   # # #
 # init driver
-driver = webdriver.Firefox(executable_path=r"...\geckodriver.exe")
+driver = webdriver.Firefox(executable_path=r"C:\Users\Ironmantle\Nextcloud\5 Projects\Programming\Personal\iga_prices\geckodriver.exe")
 
 urlDefaultLanding = r"https://www.iga.net/en/online_grocery/browse/{}".format(categoriesUrlsExtensions[userCategory])
 pagesScrape = requests.get(urlDefaultLanding)
@@ -127,7 +126,7 @@ for url in urls:
         ### M A T H ###
         productDiscount = "{:2.2f}".format(float(productPrice) - float(productSalePrice))
         productSaleRatio = float(productDiscount) / float(productPrice)
-        productSaleRatio = "{0:.0%}".format(productSaleRatio)
+        productSaleRatio = "{0:.0}".format(productSaleRatio)
         productMetadataGroup = [
             productName.replace(",","-"),
             productCategory.replace(",","-"),
